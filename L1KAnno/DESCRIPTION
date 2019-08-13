@@ -1,0 +1,14 @@
+Package: L1KAnno
+Version: 0.99
+Date: 2013-05-07
+Title: Annotation for L1KProcs package
+Author: Jing Su Developer <jsu@wakehealth.edu>
+	  Chenglin Liu Developer <cheliu@wakehealth.edu>
+	  Xiaobo Zhou Developer <xizhou@wakehealth.edu>
+Maintainer: Chenglin Liu Developer <cheliu@wakehealth.edu>
+Description: This is the annotation files required for L1000 datapreprocessing and analyzing pipeline
+License: GPL3.0, methods
+URL: http://ctsb.is.wfubmc.edu/itNETZ/DPPCSD.html
+Depends: R (>= 2.10)
+BugReports: http://ctsb.is.wfubmc.edu/itNETZ/AboutUs.html
+Packaged: 2013-07-26 18:37:36 UTC; cliu
