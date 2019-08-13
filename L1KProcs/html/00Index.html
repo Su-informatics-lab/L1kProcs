@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title>R: L1000 data processing and analyzing pipeline</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="R.css">
+</head><body>
+<h1> L1000 data processing and analyzing pipeline
+<img class="toplogo" src="../../../doc/html/logo.jpg" alt="[R logo]">
+</h1>
+<hr>
+<div align="center">
+<a href="../../../doc/html/packages.html"><img src="../../../doc/html/left.jpg" alt="[Up]" width="30" height="30" border="0"></a>
+<a href="../../../doc/html/index.html"><img src="../../../doc/html/up.jpg" alt="[Top]" width="30" height="30" border="0"></a>
+</div><h2>Documentation for package &lsquo;L1KProcs&rsquo; version 0.99</h2>
+
+<ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
+</ul>
+
+<h2>Help Pages</h2>
+
+
+<table width="100%">
+<tr><td width="25%"><a href="WellPlot.html">AnalytePlot</a></td>
+<td>Plot Peak calling of analytes</td></tr>
+<tr><td width="25%"><a href="WellPlot.html">APlot</a></td>
+<td>Plot Peak calling of analytes</td></tr>
+<tr><td width="25%"><a href="Data.html">Bead2Gene</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="CalCos.html">CalCos</a></td>
+<td>Calculate the cosine similarity of two matrix</td></tr>
+<tr><td width="25%"><a href="calEGEM.html">calEGEM</a></td>
+<td>Calculate egem of a gene set of the SeqGeneSet object</td></tr>
+<tr><td width="25%"><a href="calperm.egem.html">calperm.egem</a></td>
+<td>Calculate egem scores from randomized order of genes.</td></tr>
+<tr><td width="25%"><a href="CheckData.html">CheckData</a></td>
+<td>Check if the required data exists</td></tr>
+<tr><td width="25%"><a href="Data.html">CMatrix</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="ConvertExp.html">ConvertExp</a></td>
+<td>Convert the expression of landmark genes to all genes.</td></tr>
+<tr><td width="25%"><a href="ConvertExp.html">ConvertM</a></td>
+<td>Convert the expression of landmark genes to all genes.</td></tr>
+<tr><td width="25%"><a href="cosine.html">cosine</a></td>
+<td>Cosine Measure (Matrices)</td></tr>
+<tr><td width="25%"><a href="csNMF.html">csNMF</a></td>
+<td>Perform csNMF method for compound signature discovery</td></tr>
+<tr><td width="25%"><a href="csNMF.fig.html">csNMF.fig</a></td>
+<td>Heatmap of compound signature discovery</td></tr>
+<tr><td width="25%"><a href="csNMF.No.html">csNMF.No</a></td>
+<td>Decide the best number of signatures</td></tr>
+<tr><td width="25%"><a href="csNMF.No.modified.html">csNMF.No.modified</a></td>
+<td>Exclude low-potential signatures</td></tr>
+<tr><td width="25%"><a href="csNMF.report.html">csNMF.report</a></td>
+<td>Results of compound signature discovery</td></tr>
+<tr><td width="25%"><a href="csNMF.single.html">csNMF.single</a></td>
+<td>csNMF method</td></tr>
+<tr><td width="25%"><a href="csNMF.tf.html">csNMF.tf</a></td>
+<td>Transcription factors of signatures</td></tr>
+<tr><td width="25%"><a href="DataStorage.html">DataStorage</a></td>
+<td>Save the list of well names and plate names</td></tr>
+<tr><td width="25%"><a href="DataStorage.html">DataStorage.2</a></td>
+<td>Save the list of well names and plate names</td></tr>
+<tr><td width="25%"><a href="DEG.html">DEG</a></td>
+<td>Find differential expressed genes of data</td></tr>
+<tr><td width="25%"><a href="PeakCalling.html">dPeak</a></td>
+<td>Peak calling for L1000 datasets</td></tr>
+<tr><td width="25%"><a href="egem.html">egem</a></td>
+<td>Calculate egem scores based on expression data</td></tr>
+<tr><td width="25%"><a href="egem.analyze.html">egem.analyze</a></td>
+<td>Analyze the results based on EGEM matrix</td></tr>
+<tr><td width="25%"><a href="egem.plot.html">egem.plot</a></td>
+<td>plot the matrix of EGEM</td></tr>
+<tr><td width="25%"><a href="expLFC.html">expLFC</a></td>
+<td>Generating log fold change gene expression data.</td></tr>
+<tr><td width="25%"><a href="expNorm.html">expNorm</a></td>
+<td>Quantile normalization of gene expression data.</td></tr>
+<tr><td width="25%"><a href="FuncsNMF.html">fcnnls_H</a></td>
+<td>csNMF method for egem matrix decomposition.</td></tr>
+<tr><td width="25%"><a href="FuncsNMF.html">fcnnls_W</a></td>
+<td>csNMF method for egem matrix decomposition.</td></tr>
+<tr><td width="25%"><a href="Util.html">FGMM</a></td>
+<td>Utility of the package</td></tr>
+<tr><td width="25%"><a href="FindControls.html">FindControls</a></td>
+<td>Find control wells and major control name.</td></tr>
+<tr><td width="25%"><a href="FuncsNMF.html">FuncsNMF</a></td>
+<td>csNMF method for egem matrix decomposition.</td></tr>
+<tr><td width="25%"><a href="Data.html">genelist</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="Util.html">GMM</a></td>
+<td>Utility of the package</td></tr>
+<tr><td width="25%"><a href="initial.class.html">initial.class</a></td>
+<td>Initialize PlateInfo classes.</td></tr>
+<tr><td width="25%"><a href="Data.html">l1kControls</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="l1kpreprocs.html">l1kpreprocs</a></td>
+<td>L1K data preprocessing pipeline.</td></tr>
+<tr><td width="25%"><a href="Data.html">lstprobeNames</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="PeakCalling.html">LXB2Stats</a></td>
+<td>Peak calling for L1000 datasets</td></tr>
+<tr><td width="25%"><a href="Util.html">ModeShortName</a></td>
+<td>Utility of the package</td></tr>
+<tr><td width="25%"><a href="Data.html">newPPI</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="Util.html">ParseDataName</a></td>
+<td>Utility of the package</td></tr>
+<tr><td width="25%"><a href="PeakCalling.html">PeakCalling</a></td>
+<td>Peak calling for L1000 datasets</td></tr>
+<tr><td width="25%"><a href="calEGEM.html">perform.EGEM</a></td>
+<td>Calculate egem of a gene set of the SeqGeneSet object</td></tr>
+<tr><td width="25%"><a href="PlateInfo-class.html">PlateInfo</a></td>
+<td>'PlateInfo': a class for storing data preprocessing information.</td></tr>
+<tr><td width="25%"><a href="PlateInfo-class.html">PlateInfo-class</a></td>
+<td>'PlateInfo': a class for storing data preprocessing information.</td></tr>
+<tr><td width="25%"><a href="PlateInfo-plot.html">PlateInfo-plot</a></td>
+<td>Plot correlations used for quality control.</td></tr>
+<tr><td width="25%"><a href="Data.html">PlateMap</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="PlateInfo-plot.html">PlatePlot</a></td>
+<td>Plot correlations used for quality control.</td></tr>
+<tr><td width="25%"><a href="expLFC.html">QN2LFC</a></td>
+<td>Generating log fold change gene expression data.</td></tr>
+<tr><td width="25%"><a href="expNorm.html">QNormgctPlate</a></td>
+<td>Quantile normalization of gene expression data.</td></tr>
+<tr><td width="25%"><a href="Data.html">QTarget</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="TargetGenerate.html">QTargetGenerate</a></td>
+<td>Generate quantile normalization targets for plate normalization.</td></tr>
+<tr><td width="25%"><a href="QualityControl.html">Quality.Cons</a></td>
+<td>Quality control.</td></tr>
+<tr><td width="25%"><a href="QualityControl.html">QualityControl</a></td>
+<td>Quality control.</td></tr>
+<tr><td width="25%"><a href="ReadData.html">ReadGCT</a></td>
+<td>GCT data read and write</td></tr>
+<tr><td width="25%"><a href="ReadData.html">ReadQNData</a></td>
+<td>GCT data read and write</td></tr>
+<tr><td width="25%"><a href="Util.html">selectSub</a></td>
+<td>Utility of the package</td></tr>
+<tr><td width="25%"><a href="PlateInfo-class.html">show-method</a></td>
+<td>'PlateInfo': a class for storing data preprocessing information.</td></tr>
+<tr><td width="25%"><a href="SigDetect.html">SigDetect</a></td>
+<td>Compound signature detection method</td></tr>
+<tr><td width="25%"><a href="PeakCalling.html">Stats2gct</a></td>
+<td>Peak calling for L1000 datasets</td></tr>
+<tr><td width="25%"><a href="sumM.html">sumM</a></td>
+<td>sum of a list of matrix</td></tr>
+<tr><td width="25%"><a href="TargetGenerate.html">TargetGenerate</a></td>
+<td>Generate quantile normalization targets for plate normalization.</td></tr>
+<tr><td width="25%"><a href="triplets.html">triplets</a></td>
+<td>graph among modulators, transcription factors, genes</td></tr>
+<tr><td width="25%"><a href="Data.html">U133A</a></td>
+<td>Data for preprocessing</td></tr>
+<tr><td width="25%"><a href="PlateInfo-plot.html">WellPlot</a></td>
+<td>Plot correlations used for quality control.</td></tr>
+<tr><td width="25%"><a href="ReadData.html">WriteGCT</a></td>
+<td>GCT data read and write</td></tr>
+</table>
+</body></html>

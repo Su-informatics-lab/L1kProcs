@@ -1,0 +1,981 @@
+#1.2
+1000	1
+Gene	Name	Description	CPC001_PC3_24H_X1_B3_DUO52HI53LO_A17
+PSME1	200814_at	Analyte 11, DP52, proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	10.7598582002555
+CISD1	218597_s_at	Analyte 12, DP52, CDGSH iron sulfur domain 1	11.0450576473709
+VDAC1	212038_s_at	Analyte 12, DP53, voltage-dependent anion channel 1	11.0727178053969
+SPDEF	213441_x_at	Analyte 13, DP52, SAM pointed domain containing ets transcription factor	9.2437013563257
+SORBS3	207788_s_at	Analyte 13, DP53, sorbin and SH3 domain containing 3	9.80101782370375
+ATF1	222103_at	Analyte 14, DP52, activating transcription factor 1	8.00860864684494
+SPAG4	219888_at	Analyte 14, DP53, sperm associated antigen 4	8.51661362755039
+RHEB	201451_x_at	Analyte 15, DP52, Ras homolog enriched in brain	11.3725656984465
+E2F2	207042_at	Analyte 15, DP53, E2F transcription factor 2	7.09952686720723
+IGF1R	203627_at	Analyte 16, DP52, insulin-like growth factor 1 receptor	7.50772011638748
+SLC5A6	204087_s_at	Analyte 16, DP53, solute carrier family 5 (sodium-dependent vitamin transporter), member 6	8.46587382226234
+FOXO3	204131_s_at	Analyte 17, DP52, forkhead box O3	8.30892324050725
+RGS2	202388_at	Analyte 17, DP53, regulator of G-protein signaling 2, 24kDa	10.5767588229919
+GSTM2	204418_x_at	Analyte 18, DP52, glutathione S-transferase mu 2 (muscle)	7.47529875214189
+SCYL3	205607_s_at	Analyte 18, DP53, SCY1-like 3 (S. cerevisiae)	6.76427174553064
+RHOA	200059_s_at	Analyte 19, DP52, ras homolog gene family, member A	9.2885187512634
+TBX2	205993_s_at	Analyte 19, DP53, T-box 2	6.82376763019394
+IL1B	205067_at	Analyte 20, DP52, interleukin 1, beta	9.45926393914829
+DNAJA3	205963_s_at	Analyte 20, DP53, DnaJ (Hsp40) homolog, subfamily A, member 3	11.494576147372
+ASAH1	210979_at	Analyte 21, DP52, N-acylsphingosine amidohydrolase (acid ceramidase) 1	8.64448580960041
+DCUN1D4	212851_at	Analyte 21, DP53, DCN1, defective in cullin neddylation 1, domain containing 4 (S. cerevisiae)	8.71235105407329
+RALA	214435_x_at	Analyte 22, DP52, v-ral simian leukemia viral oncogene homolog A (ras related)	8.99249985296887
+DYRK3	210151_s_at	Analyte 22, DP53, dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	7.84072712319906
+ARHGEF12	201333_s_at	Analyte 23, DP52, Rho guanine nucleotide exchange factor (GEF) 12	8.47468493221218
+POLG2	205811_at	Analyte 23, DP53, polymerase (DNA directed), gamma 2, accessory subunit	7.96771434587649
+SOX2	213721_at	Analyte 24, DP52, SRY (sex determining region Y)-box 2	7.11904895241675
+TRAPPC3	203511_s_at	Analyte 24, DP53, trafficking protein particle complex 3	10.1362745173915
+SERPINE1	202627_s_at	Analyte 25, DP52, serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	9.06910744664101
+TCFL5	204849_at	Analyte 25, DP53, transcription factor-like 5 (basic helix-loop-helix)	7.68869996353689
+HLA-DMA	217478_s_at	Analyte 26, DP52, major histocompatibility complex, class II, DM alpha	6.86695912610328
+CRK	202224_at	Analyte 26, DP53, v-crk sarcoma virus CT10 oncogene homolog (avian)	9.2408147193107
+EGF	206254_at	Analyte 27, DP52, epidermal growth factor	7.73823823486187
+RBM34	212591_at	Analyte 27, DP53, RNA binding motif protein 34	9.63002302321252
+SPTLC2	203127_s_at	Analyte 28, DP52, serine palmitoyltransferase, long chain base subunit 2	7.63250340106601
+ITGB1BP1	203336_s_at	Analyte 28, DP53, integrin beta 1 binding protein 1	9.91294582325984
+APP	200602_at	Analyte 29, DP52, amyloid beta (A4) precursor protein	11.5960152318321
+ACLY	201127_s_at	Analyte 29, DP53, ATP citrate lyase	9.78278094804566
+TSKU	218245_at	Analyte 30, DP52, tsukushi small leucine rich proteoglycan homolog (Xenopus laevis)	7.92946336526004
+RAD51C	206066_s_at	Analyte 30, DP53, RAD51 homolog C (S. cerevisiae)	7.53572195031468
+TMEM2	218113_at	Analyte 31, DP52, transmembrane protein 2	7.46825923221518
+SMC1A	201589_at	Analyte 31, DP53, structural maintenance of chromosomes 1A	9.48733993888712
+NOS3	205581_s_at	Analyte 32, DP52, nitric oxide synthase 3 (endothelial cell)	6.89206572500903
+YME1L1	201351_s_at	Analyte 32, DP53, YME1-like 1 (S. cerevisiae)	8.53099482836669
+CSNK1A1	206562_s_at	Analyte 33, DP52, casein kinase 1, alpha 1	9.94983764184758
+ACAA1	202025_x_at	Analyte 33, DP53, acetyl-CoA acyltransferase 1	9.35866820546327
+NFATC4	205897_at	Analyte 34, DP52, nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	7.25792558541879
+HSPA8	208687_x_at	Analyte 34, DP53, heat shock 70kDa protein 8	10.4261488126275
+TBP	203135_at	Analyte 35, DP52, TATA box binding protein	9.22253734781539
+CCNB1	214710_s_at	Analyte 35, DP53, cyclin B1	11.0962074027971
+SLC2A6	220091_at	Analyte 36, DP52, solute carrier family 2 (facilitated glucose transporter), member 6	9.6976154380804
+WFS1	202908_at	Analyte 36, DP53, Wolfram syndrome 1 (wolframin)	8.9592467323244
+EZH2	203358_s_at	Analyte 37, DP52, enhancer of zeste homolog 2 (Drosophila)	9.2004742623396
+UBE3B	212403_at	Analyte 37, DP53, ubiquitin protein ligase E3B	9.49617449467624
+ICAM3	204949_at	Analyte 38, DP52, intercellular adhesion molecule 3	9.23331210455877
+NPDC1	218086_at	Analyte 38, DP53, neural proliferation, differentiation and control, 1	8.88586381288169
+BRCA1	204531_s_at	Analyte 39, DP52, breast cancer 1, early onset	8.0745264562353
+ALDH7A1	208950_s_at	Analyte 39, DP53, aldehyde dehydrogenase 7 family, member A1	8.38662481697927
+PSMD4	200882_s_at	Analyte 40, DP52, proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	11.1065490772205
+NFATC3	207416_s_at	Analyte 40, DP53, nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	8.10309262631754
+PHKG2	203709_at	Analyte 41, DP52, phosphorylase kinase, gamma 2 (testis)	8.09527178638382
+PCNA	201202_at	Analyte 41, DP53, proliferating cell nuclear antigen	11.8242279224201
+ETV1	206501_x_at	Analyte 42, DP52, ets variant 1	7.99262960957157
+POLR2I	212955_s_at	Analyte 42, DP53, polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	9.95411787086415
+KDM5B	201547_at	Analyte 43, DP52, lysine (K)-specific demethylase 5B	7.1887058288518
+PSMB8	209040_s_at	Analyte 43, DP53, proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	8.95204855628729
+COG4	212189_s_at	Analyte 44, DP52, component of oligomeric golgi complex 4	8.57179416705072
+AKAP8L	215741_x_at	Analyte 44, DP53, A kinase (PRKA) anchor protein 8-like	9.10562395747951
+MCM3	201555_at	Analyte 45, DP52, minichromosome maintenance complex component 3	10.5547271444864
+PLEKHJ1	218290_at	Analyte 45, DP53, pleckstrin homology domain containing, family J member 1	8.73555661976205
+TERT	207199_at	Analyte 46, DP52, telomerase reverse transcriptase	7.60428902518755
+HAT1	203138_at	Analyte 46, DP53, histone acetyltransferase 1	9.09575612069354
+SNX13	213292_s_at	Analyte 47, DP52, sorting nexin 13	8.5805078338971
+G3BP1	201503_at	Analyte 47, DP53, GTPase activating protein (SH3 domain) binding protein 1	9.88432507201646
+PAK4	203154_s_at	Analyte 48, DP52, p21 protein (Cdc42/Rac)-activated kinase 4	8.7132095513979
+TPD52L2	201379_s_at	Analyte 48, DP53, tumor protein D52-like 2	8.57268993647092
+DPH2	204514_at	Analyte 49, DP52, DPH2 homolog (S. cerevisiae)	8.64749078011229
+PIH1D1	217872_at	Analyte 49, DP53, PIH1 domain containing 1	8.97008593483918
+SNX6	217789_at	Analyte 50, DP52, sorting nexin 6	10.0465661599839
+PRKCQ	210038_at	Analyte 50, DP53, protein kinase C, theta	7.9559914919295
+EED	209572_s_at	Analyte 51, DP52, embryonic ectoderm development	8.76304310619918
+SHB	204656_at	Analyte 51, DP53, Src homology 2 domain containing adaptor protein B	8.64535203841415
+WIPF2	212049_at	Analyte 52, DP52, WAS/WASL interacting protein family, member 2	8.70517032359188
+UTP14A	221098_x_at	Analyte 52, DP53, UTP14, U3 small nucleolar ribonucleoprotein, homolog A (yeast)	8.70609374453356
+NENF	214075_at	Analyte 53, DP52, neudesin neurotrophic factor	10.9015036317656
+TSEN2	219581_at	Analyte 53, DP53, tRNA splicing endonuclease 2 homolog (S. cerevisiae)	8.9558853920177
+RPN1	201011_at	Analyte 54, DP52, ribophorin I	11.7419213252291
+SUV39H1	218619_s_at	Analyte 54, DP53, suppressor of variegation 3-9 homolog 1 (Drosophila)	9.20011569834848
+C2CD2L	204757_s_at	Analyte 55, DP52, C2CD2-like	7.58296040882385
+LYPLA1	203007_x_at	Analyte 55, DP53, lysophospholipase I	8.70297181247758
+GABPB1	204618_s_at	Analyte 56, DP52, GA binding protein transcription factor, beta subunit 1	8.887662014307
+BIRC2	202076_at	Analyte 56, DP53, baculoviral IAP repeat containing 2	9.1035844539638
+POLR2K	202634_at	Analyte 57, DP52, polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	10.7566027021618
+MAP2K5	204756_at	Analyte 57, DP53, mitogen-activated protein kinase kinase 5	8.33716513719174
+PTK2B	203110_at	Analyte 58, DP52, PTK2B protein tyrosine kinase 2 beta	8.11360126672576
+PUF60	209899_s_at	Analyte 58, DP53, poly-U binding splicing factor 60KDa	10.6447657424676
+PAF1	202093_s_at	Analyte 59, DP52, Paf1, RNA polymerase II associated factor, homolog (S. cerevisiae)	8.90719549716497
+DHRS7	201789_at	Analyte 59, DP53, dehydrogenase/reductase (SDR family) member 7	10.7093785070503
+POLR1C	207515_s_at	Analyte 60, DP52, polymerase (RNA) I polypeptide C, 30kDa	9.59037179587252
+ARID5B	212614_at	Analyte 60, DP53, AT rich interactive domain 5B (MRF1-like)	8.55429208692546
+RUVBL1	201614_s_at	Analyte 61, DP52, RuvB-like 1 (E. coli)	10.7763279224867
+PAK1	209615_s_at	Analyte 61, DP53, p21 protein (Cdc42/Rac)-activated kinase 1	7.06206696869066
+AKT1	207163_s_at	Analyte 62, DP52, v-akt murine thymoma viral oncogene homolog 1	10.2613852691394
+CDC42	208727_s_at	Analyte 62, DP53, cell division cycle 42 (GTP binding protein, 25kDa)	10.392320346246
+SENP6	202318_s_at	Analyte 63, DP52, SUMO1/sentrin specific peptidase 6	8.9998936824818
+IGHMBP2	215980_s_at	Analyte 63, DP53, immunoglobulin mu binding protein 2	8.3469255458847
+HSPB1	201841_s_at	Analyte 64, DP52, heat shock 27kDa protein 1	11.3479497629153
+ADO	212500_at	Analyte 64, DP53, 2-aminoethanethiol (cysteamine) dioxygenase	9.92805897910095
+EBP	202735_at	Analyte 65, DP52, emopamil binding protein (sterol isomerase)	9.88781717543867
+TCTN1	218584_at	Analyte 65, DP53, tectonic family member 1	8.27711140909586
+CASK	207620_s_at	Analyte 66, DP52, calcium/calmodulin-dependent serine protein kinase (MAGUK family)	8.84503789324198
+AKR7A2	202139_at	Analyte 66, DP53, aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	10.2964374367448
+RRP8	203170_at	Analyte 67, DP52, ribosomal RNA processing 8, methyltransferase, homolog (yeast)	7.97313068979339
+PPP2R5E	203338_at	Analyte 67, DP53, protein phosphatase 2, regulatory subunit B', epsilon isoform	9.59386397446685
+PIK3C3	204297_at	Analyte 68, DP52, phosphoinositide-3-kinase, class 3	8.30874188189566
+LAMA3	203726_s_at	Analyte 68, DP53, laminin, alpha 3	9.17906428946044
+BHLHE40	201169_s_at	Analyte 69, DP52, basic helix-loop-helix family, member e40	7.9259101193985
+CCNE2	205034_at	Analyte 69, DP53, cyclin E2	8.05097267357463
+BDH1	211715_s_at	Analyte 70, DP52, 3-hydroxybutyrate dehydrogenase, type 1	8.38190405456341
+FEZ2	202305_s_at	Analyte 70, DP53, fasciculation and elongation protein zeta 2 (zygin II)	7.77123609793599
+SH3BP5	201810_s_at	Analyte 71, DP52, SH3-domain binding protein 5 (BTK-associated)	8.51951857259587
+IKBKAP	202490_at	Analyte 71, DP53, inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	9.0887053870801
+PPP2R5A	202186_x_at	Analyte 72, DP52, protein phosphatase 2, regulatory subunit B', alpha	10.5307257134782
+SGCB	205120_s_at	Analyte 72, DP53, sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	9.26679599420027
+EML3	203442_x_at	Analyte 73, DP52, echinoderm microtubule associated protein like 3	8.97652981159284
+ENOPH1	217956_s_at	Analyte 73, DP53, enolase-phosphatase 1	9.68918748612559
+BIRC5	202094_at	Analyte 74, DP52, baculoviral IAP repeat containing 5	11.4752594345077
+CNOT4	203291_at	Analyte 74, DP53, CCR4-NOT transcription complex, subunit 4	7.99083145739531
+EPRS	200841_s_at	Analyte 75, DP52, glutamyl-prolyl-tRNA synthetase	10.687368852245
+SNAP25	202507_s_at	Analyte 75, DP53, synaptosomal-associated protein, 25kDa	6.51556485224481
+PAX8	121_at	Analyte 76, DP52, paired box 8	7.1388175477085
+JMJD6	212722_s_at	Analyte 76, DP53, jumonji domain containing 6	11.2567063244235
+CBLB	208348_s_at	Analyte 77, DP52, Cas-Br-M (murine) ecotropic retroviral transforming sequence b	8.0150259576254
+SLC35F2	218826_at	Analyte 77, DP53, solute carrier family 35, member F2	10.3633882812343
+PDS5A	212138_at	Analyte 78, DP52, PDS5, regulator of cohesion maintenance, homolog A (S. cerevisiae)	9.59989654652997
+ANO10	218910_at	Analyte 78, DP53, anoctamin 10	8.56386534708459
+DFFB	206752_s_at	Analyte 79, DP52, DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	8.39705060636669
+STUB1	217934_x_at	Analyte 79, DP53, STIP1 homology and U-box containing protein 1, E3 ubiquitin protein ligase	11.2123632642499
+TGFB3	209747_at	Analyte 80, DP52, transforming growth factor, beta 3	7.64109597045266
+PGAM1	200886_s_at	Analyte 80, DP53, phosphoglycerate mutase 1 (brain)	11.2098478428881
+XBP1	200670_at	Analyte 81, DP52, X-box binding protein 1	8.83742219475305
+BAD	1861_at	Analyte 81, DP53, BCL2-associated agonist of cell death	10.2017958427494
+NMT1	201157_s_at	Analyte 82, DP52, N-myristoyltransferase 1	9.10207886590183
+PSMD10	219485_s_at	Analyte 82, DP53, proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	9.32608219286892
+ARFIP2	202109_at	Analyte 83, DP52, ADP-ribosylation factor interacting protein 2	9.6183699395073
+RAB11FIP2	203883_s_at	Analyte 83, DP53, RAB11 family interacting protein 2 (class I)	7.69608744020965
+STAMBP	202811_at	Analyte 84, DP52, STAM binding protein	9.45286874176806
+FPGS	202945_at	Analyte 84, DP53, folylpolyglutamate synthase	8.77618352934496
+PRKX	204061_at	Analyte 85, DP52, protein kinase, X-linked	8.24067014702187
+RNH1	206050_s_at	Analyte 85, DP53, ribonuclease/angiogenin inhibitor 1	9.91725968701749
+FAH	202862_at	Analyte 86, DP52, fumarylacetoacetate hydrolase (fumarylacetoacetase)	9.49075714178704
+ATG3	220237_at	Analyte 86, DP53, ATG3 autophagy related 3 homolog (S. cerevisiae)	9.70925745308823
+PLP2	201136_at	Analyte 87, DP52, proteolipid protein 2 (colonic epithelium-enriched)	8.98536536277844
+NCK1	204725_s_at	Analyte 87, DP53, NCK adaptor protein 1	9.25431190687374
+SOX4	201416_at	Analyte 88, DP52, SRY (sex determining region Y)-box 4	9.3045946734307
+CFLAR	208485_x_at	Analyte 88, DP53, CASP8 and FADD-like apoptosis regulator	7.77289504695269
+TESK1	204106_at	Analyte 89, DP52, testis-specific kinase 1	9.43485760590261
+HEATR1	218594_at	Analyte 89, DP53, HEAT repeat containing 1	9.19309664246731
+HN1L	212109_at	Analyte 90, DP52, hematological and neurological expressed 1-like	10.0287133332128
+WDR7	212880_at	Analyte 90, DP53, WD repeat domain 7	8.10721538212684
+RRAGA	201628_s_at	Analyte 91, DP52, Ras-related GTP binding A	8.5891172104184
+AKAP8	203847_s_at	Analyte 91, DP53, A kinase (PRKA) anchor protein 8	8.7883829117396
+ELOVL6	204256_at	Analyte 92, DP52, ELOVL fatty acid elongase 6	8.15845222044384
+SLC1A4	209610_s_at	Analyte 92, DP53, solute carrier family 1 (glutamate/neutral amino acid transporter), member 4	7.2455097986923
+ACBD3	202323_s_at	Analyte 93, DP52, acyl-CoA binding domain containing 3	9.41219627111
+GRWD1	221549_at	Analyte 93, DP53, glutamate-rich WD repeat containing 1	8.5737564209278
+PMAIP1	204285_s_at	Analyte 94, DP52, phorbol-12-myristate-13-acetate-induced protein 1	8.90286881532993
+STAT1	200887_s_at	Analyte 94, DP53, signal transducer and activator of transcription 1, 91kDa	8.62685238000166
+TWF2	202009_at	Analyte 95, DP52, twinfilin, actin-binding protein, homolog 2 (Drosophila)	10.4089873429616
+FOXJ3	206015_s_at	Analyte 95, DP53, forkhead box J3	9.78232861309923
+HDAC6	206846_s_at	Analyte 96, DP52, histone deacetylase 6	9.25468630310423
+MTERFD1	219363_s_at	Analyte 96, DP53, MTERF domain containing 1	10.8227205952501
+CCND1	208711_s_at	Analyte 97, DP52, cyclin D1	9.63691919366581
+CHIC2	219492_at	Analyte 97, DP53, cysteine-rich hydrophobic domain 2	9.46911464159025
+PXN	201087_at	Analyte 98, DP52, paxillin	11.6089385466188
+USP7	201498_at	Analyte 98, DP53, ubiquitin specific peptidase 7 (herpes virus-associated)	8.24431921375593
+PHKB	202738_s_at	Analyte 99, DP52, phosphorylase kinase, beta	8.55432662751088
+NOSIP	217950_at	Analyte 99, DP53, nitric oxide synthase interacting protein	9.61188376788098
+NFKBIB	214062_x_at	Analyte 100, DP52, nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	7.68753285839939
+DLD	209095_at	Analyte 100, DP53, dihydrolipoamide dehydrogenase	10.7247959621637
+CASC3	207842_s_at	Analyte 101, DP52, cancer susceptibility candidate 3	8.68741060029531
+IDE	203327_at	Analyte 101, DP53, insulin-degrading enzyme	7.89971834296499
+MLEC	200616_s_at	Analyte 102, DP52, malectin	11.3661153823095
+CD40	205153_s_at	Analyte 102, DP53, CD40 molecule, TNF receptor superfamily member 5	9.05690582297962
+GLI2	207034_s_at	Analyte 103, DP52, GLI family zinc finger 2	7.34605801095732
+PRPF4	209161_at	Analyte 103, DP53, PRP4 pre-mRNA processing factor 4 homolog (yeast)	9.19393467107775
+USP22	200083_at	Analyte 104, DP52, ubiquitin specific peptidase 22	11.8667316604219
+MELK	204825_at	Analyte 104, DP53, maternal embryonic leucine zipper kinase	10.4578047857543
+TMED10	200929_at	Analyte 105, DP52, transmembrane emp24-like trafficking protein 10 (yeast)	10.8017107802451
+DAXX	201763_s_at	Analyte 105, DP53, death-domain associated protein	8.96456829941739
+CHERP	202229_s_at	Analyte 106, DP52, calcium homeostasis endoplasmic reticulum protein	9.19129240624402
+SMAD3	205396_at	Analyte 106, DP53, SMAD family member 3	9.79965822298936
+PIK3CA	204369_at	Analyte 107, DP52, phosphoinositide-3-kinase, catalytic, alpha polypeptide	8.78331905526395
+OXA1L	208717_at	Analyte 107, DP53, oxidase (cytochrome c) assembly 1-like	11.4032901411632
+TRAPPC6A	204985_s_at	Analyte 108, DP52, trafficking protein particle complex 6A	9.14250148929002
+SNX7	205573_s_at	Analyte 108, DP53, sorting nexin 7	9.12334228631853
+ATP2C1	209934_s_at	Analyte 109, DP52, ATPase, Ca++ transporting, type 2C, member 1	8.89934840949338
+CDCA4	218399_s_at	Analyte 109, DP53, cell division cycle associated 4	10.1231785159732
+USP14	201671_x_at	Analyte 110, DP52, ubiquitin specific peptidase 14 (tRNA-guanine transglycosylase)	8.4018639639391
+TBC1D9B	206431_x_at	Analyte 110, DP53, TBC1 domain family, member 9B (with GRAM domain)	7.86788689413912
+APPBP2	202629_at	Analyte 111, DP52, amyloid beta precursor protein (cytoplasmic tail) binding protein 2	8.21129288569899
+CDC20	202870_s_at	Analyte 111, DP53, cell division cycle 20 homolog (S. cerevisiae)	12.8598952826765
+RPS6	200081_s_at	Analyte 112, DP52, ribosomal protein S6	12.2772247715398
+NARFL	218742_at	Analyte 112, DP53, nuclear prelamin A recognition factor-like	7.99673577229107
+ECH1	200789_at	Analyte 113, DP52, enoyl CoA hydratase 1, peroxisomal	10.4580073316095
+DDX42	201788_at	Analyte 113, DP53, DEAD (Asp-Glu-Ala-Asp) box polypeptide 42	9.20209436946244
+HDAC2	201833_at	Analyte 114, DP52, histone deacetylase 2	10.0569135562952
+IKBKE	204549_at	Analyte 114, DP53, inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon	7.92375893915143
+DFFA	203277_at	Analyte 115, DP52, DNA fragmentation factor, 45kDa, alpha polypeptide	9.04816509585428
+CCL2	216598_s_at	Analyte 115, DP53, chemokine (C-C motif) ligand 2	7.21129934203844
+MRPL19	203465_at	Analyte 116, DP52, mitochondrial ribosomal protein L19	10.992363480245
+WDTC1	215497_s_at	Analyte 116, DP53, WD and tetratricopeptide repeats 1	10.0332910291159
+SUZ12	212287_at	Analyte 117, DP52, suppressor of zeste 12 homolog (Drosophila)	9.91304150027506
+PLSCR3	218828_at	Analyte 117, DP53, phospholipid scramblase 3	10.2894544074327
+CSNK2A2	203575_at	Analyte 118, DP52, casein kinase 2, alpha prime polypeptide	8.55396524594416
+H2AFV	202487_s_at	Analyte 118, DP53, H2A histone family, member V	8.66006413739613
+TICAM1	213191_at	Analyte 119, DP52, toll-like receptor adaptor molecule 1	8.56360437291523
+NUSAP1	218039_at	Analyte 119, DP53, nucleolar and spindle associated protein 1	10.4394473031074
+KIAA0100	201728_s_at	Analyte 120, DP52, KIAA0100	8.94974434874198
+FAM69A	213689_x_at	Analyte 120, DP53, family with sequence similarity 69, member A	8.7799352295065
+PAICS	201013_s_at	Analyte 121, DP52, phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoimidazole succinocarboxamide synthetase	9.40887061113509
+SRC	213324_at	Analyte 121, DP53, v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	7.54013833549244
+CDK2	204252_at	Analyte 122, DP52, cyclin-dependent kinase 2	9.82926836489892
+BMP4	211518_s_at	Analyte 122, DP53, bone morphogenetic protein 4	8.0112681839127
+EDN1	218995_s_at	Analyte 123, DP52, endothelin 1	8.82291483880481
+XPO7	208459_s_at	Analyte 123, DP53, exportin 7	9.97182267249292
+KIAA0494	201775_s_at	Analyte 124, DP52, KIAA0494	9.25940910651357
+FAIM	220643_s_at	Analyte 124, DP53, Fas apoptotic inhibitory molecule	8.55514530625035
+SQSTM1	201471_s_at	Analyte 125, DP52, sequestosome 1	11.3559376029856
+PXMP2	219076_s_at	Analyte 125, DP53, peroxisomal membrane protein 2, 22kDa	9.94987416760708
+HIF1A	200989_at	Analyte 126, DP52, hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)	11.8078090995035
+TIMM17B	203342_at	Analyte 126, DP53, translocase of inner mitochondrial membrane 17 homolog B (yeast)	11.6167413914274
+WRB	202749_at	Analyte 127, DP52, tryptophan rich basic protein	8.26844846809802
+STXBP2	209367_at	Analyte 127, DP53, syntaxin binding protein 2	9.88533075381565
+ETFB	202942_at	Analyte 128, DP52, electron-transfer-flavoprotein, beta polypeptide	10.3743126542366
+MNAT1	203565_s_at	Analyte 128, DP53, menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	10.3546101525097
+CAMSAP2	212763_at	Analyte 129, DP52, calmodulin regulated spectrin-associated protein family, member 2	9.87316805840979
+HPRT1	202854_at	Analyte 129, DP53, hypoxanthine phosphoribosyltransferase 1	11.0070586233695
+ARNT2	202986_at	Analyte 130, DP52, aryl-hydrocarbon receptor nuclear translocator 2	10.3120101469344
+RRS1	209567_at	Analyte 130, DP53, RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)	9.51084954680574
+SPAG7	200053_at	Analyte 131, DP52, sperm associated antigen 7	9.58471561035452
+ADAT1	219384_s_at	Analyte 131, DP53, adenosine deaminase, tRNA-specific 1	8.03084292381417
+MAPK1IP1L	212497_at	Analyte 132, DP52, mitogen-activated protein kinase 1 interacting protein 1-like	9.74210974760843
+SCAND1	218206_x_at	Analyte 132, DP53, SCAN domain containing 1	10.623743998558
+MSH6	202911_at	Analyte 133, DP52, mutS homolog 6 (E. coli)	9.69788641538276
+MFSD10	209215_at	Analyte 133, DP53, major facilitator superfamily domain containing 10	10.2873418888812
+UBE2C	202954_at	Analyte 134, DP52, ubiquitin-conjugating enzyme E2C	11.5330232488173
+COPS7A	209029_at	Analyte 134, DP53, COP9 constitutive photomorphogenic homolog subunit 7A (Arabidopsis)	10.7068553136787
+HS2ST1	203283_s_at	Analyte 135, DP52, heparan sulfate 2-O-sulfotransferase 1	7.82473918113769
+FIS1	218034_at	Analyte 135, DP53, fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	9.04130352072686
+TXLNA	212300_at	Analyte 136, DP52, taxilin alpha	10.8248941974352
+NUDT9	218375_at	Analyte 136, DP53, nudix (nucleoside diphosphate linked moiety X)-type motif 9	9.73712813033428
+DNAJB1	200664_s_at	Analyte 137, DP52, DnaJ (Hsp40) homolog, subfamily B, member 1	10.3399814468732
+CSRP1	200621_at	Analyte 137, DP53, cysteine and glycine-rich protein 1	11.1023370730627
+TOPBP1	202633_at	Analyte 138, DP52, topoisomerase (DNA) II binding protein 1	8.89548863840301
+METRN	219051_x_at	Analyte 138, DP53, meteorin, glial cell differentiation regulator	9.96096488452353
+ABCF1	200045_at	Analyte 139, DP52, ATP-binding cassette, sub-family F (GCN20), member 1	9.12198178033106
+TCTA	203054_s_at	Analyte 139, DP53, T-cell leukemia translocation altered gene	9.72193725737453
+LGMN	201212_at	Analyte 140, DP52, legumain	8.39304590893633
+TLK2	212986_s_at	Analyte 140, DP53, tousled-like kinase 2	9.16930230408611
+PTGS2	204748_at	Analyte 141, DP52, prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	6.8197725765121
+KIAA1033	212794_s_at	Analyte 141, DP53, KIAA1033	9.48084263401026
+PLA2G4A	210145_at	Analyte 142, DP52, phospholipase A2, group IVA (cytosolic, calcium-dependent)	9.4266884289402
+DNAJB6	209015_s_at	Analyte 142, DP53, DnaJ (Hsp40) homolog, subfamily B, member 6	10.4459450873831
+MAT2A	200768_s_at	Analyte 143, DP52, methionine adenosyltransferase II, alpha	11.2416540137437
+TLR4	221060_s_at	Analyte 143, DP53, toll-like receptor 4	6.63748433508425
+MBTPS1	201620_at	Analyte 144, DP52, membrane-bound transcription factor peptidase, site 1	8.33430093225327
+HMGCS1	205822_s_at	Analyte 144, DP53, 3-hydroxy-3-methylglutaryl-CoA synthase 1 (soluble)	9.94777056802869
+ZNF274	204937_s_at	Analyte 145, DP52, zinc finger protein 274	8.11491457587786
+SPRED2	212458_at	Analyte 145, DP53, sprouty-related, EVH1 domain containing 2	9.61524257694404
+CLIC4	201559_s_at	Analyte 146, DP52, chloride intracellular channel 4	11.2221421631738
+MAP7	202889_x_at	Analyte 146, DP53, microtubule-associated protein 7	8.56057112045115
+EIF4G1	208624_s_at	Analyte 147, DP52, eukaryotic translation initiation factor 4 gamma, 1	8.75465225288765
+CHAC1	219270_at	Analyte 147, DP53, ChaC, cation transport regulator homolog 1 (E. coli)	9.10863612167926
+BTK	205504_at	Analyte 148, DP52, Bruton agammaglobulinemia tyrosine kinase	6.98695937953612
+GNAS	200780_x_at	Analyte 148, DP53, GNAS complex locus	11.8346350406094
+MYL9	201058_s_at	Analyte 149, DP52, myosin, light chain 9, regulatory	8.58720127347852
+TEX10	218104_at	Analyte 149, DP53, testis expressed 10	9.2249455627475
+PSMD2	200830_at	Analyte 150, DP52, proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	11.5923918711674
+ZNF586	219711_at	Analyte 150, DP53, zinc finger protein 586	8.7793144932129
+CLTC	200614_at	Analyte 151, DP52, clathrin, heavy chain (Hc)	10.8486550453983
+IKZF1	205038_at	Analyte 151, DP53, IKAROS family zinc finger 1 (Ikaros)	6.89209005206686
+HSD17B10	202282_at	Analyte 152, DP52, hydroxysteroid (17-beta) dehydrogenase 10	10.4804574296881
+APBB2	212970_at	Analyte 152, DP53, amyloid beta (A4) precursor protein-binding, family B, member 2	8.7208749945541
+STX1A	204729_s_at	Analyte 153, DP52, syntaxin 1A (brain)	10.0357464488613
+RNF167	212047_s_at	Analyte 153, DP53, ring finger protein 167	10.0160418890754
+ALDOA	200966_x_at	Analyte 154, DP52, aldolase A, fructose-bisphosphate	9.26931918976863
+EPHA3	206070_s_at	Analyte 154, DP53, EPH receptor A3	7.64680344929253
+STAT5B	205026_at	Analyte 155, DP52, signal transducer and activator of transcription 5B	6.89461969168093
+TXNDC9	203008_x_at	Analyte 155, DP53, thioredoxin domain containing 9	9.93430332802838
+CCNA2	203418_at	Analyte 156, DP52, cyclin A2	9.38832042543146
+VGLL4	212399_s_at	Analyte 156, DP53, vestigial like 4 (Drosophila)	9.68977650223226
+SDHB	202675_at	Analyte 157, DP52, succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	11.7834932199364
+CASP10	205467_at	Analyte 157, DP53, caspase 10, apoptosis-related cysteine peptidase	7.71636732473916
+ETS1	214447_at	Analyte 158, DP52, v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	8.84013967699608
+YTHDF1	221741_s_at	Analyte 158, DP53, YTH domain family, member 1	9.49539382510753
+FOXO4	205451_at	Analyte 159, DP52, forkhead box O4	8.43350539825954
+LSM5	202903_at	Analyte 159, DP53, LSM5 homolog, U6 small nuclear RNA associated (S. cerevisiae)	11.7616311223324
+TOMM34	201870_at	Analyte 160, DP52, translocase of outer mitochondrial membrane 34	10.49711554737
+ZMYM2	202778_s_at	Analyte 160, DP53, zinc finger, MYM-type 2	9.36991373024412
+KIAA0907	202220_at	Analyte 161, DP52, KIAA0907	9.88919474069908
+CHMP6	218743_at	Analyte 161, DP53, charged multivesicular body protein 6	8.48379803705614
+HK1	200697_at	Analyte 162, DP52, hexokinase 1	8.84783372581747
+CASP7	207181_s_at	Analyte 162, DP53, caspase 7, apoptosis-related cysteine peptidase	10.3369376829712
+PAPD7	202466_at	Analyte 163, DP52, PAP associated domain containing 7	9.43386695354769
+PIGB	205452_at	Analyte 163, DP53, phosphatidylinositol glycan anchor biosynthesis, class B	8.97730763222305
+PLOD3	202185_at	Analyte 164, DP52, procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	10.4727666879549
+CHEK2	210416_s_at	Analyte 164, DP53, CHK2 checkpoint homolog (S. pombe)	9.52851492725502
+TRAK2	202124_s_at	Analyte 165, DP52, trafficking protein, kinesin binding 2	8.37258083350554
+ACD	204617_s_at	Analyte 165, DP53, adrenocortical dysplasia homolog (mouse)	9.35301957748922
+VAPB	202549_at	Analyte 166, DP52, VAMP (vesicle-associated membrane protein)-associated protein B and C	8.99051841832107
+SUPV3L1	212894_at	Analyte 166, DP53, suppressor of var1, 3-like 1 (S. cerevisiae)	10.2716840053347
+HSPD1	200806_s_at	Analyte 167, DP52, heat shock 60kDa protein 1 (chaperonin)	10.6006760906619
+GPATCH8	212485_at	Analyte 167, DP53, G patch domain containing 8	8.5054879336536
+BUB1B	203755_at	Analyte 168, DP52, budding uninhibited by benzimidazoles 1 homolog beta (yeast)	9.87555424955973
+TGFBR2	207334_s_at	Analyte 168, DP53, transforming growth factor, beta receptor II (70/80kDa)	8.54165681661573
+MRPL12	203931_s_at	Analyte 169, DP52, mitochondrial ribosomal protein L12	11.6401219994377
+NOTCH1	218902_at	Analyte 169, DP53, notch 1	8.71511990345101
+PNP	201695_s_at	Analyte 170, DP52, purine nucleoside phosphorylase	11.033107730434
+SHC1	201469_s_at	Analyte 170, DP53, SHC (Src homology 2 domain containing) transforming protein 1	8.72548712120208
+CEBPA	204039_at	Analyte 171, DP52, CCAAT/enhancer binding protein (C/EBP), alpha	6.89651347886272
+ARPP19	214553_s_at	Analyte 171, DP53, cAMP-regulated phosphoprotein, 19kDa	9.13593062520931
+PSMF1	201052_s_at	Analyte 172, DP52, proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	9.05454167789647
+RTN2	204217_s_at	Analyte 172, DP53, reticulon 2	10.0048930123547
+USP1	202412_s_at	Analyte 173, DP52, ubiquitin specific peptidase 1	8.82969047400777
+NPEPL1	218821_at	Analyte 173, DP53, aminopeptidase-like 1	9.53271155999635
+RPA1	201528_at	Analyte 174, DP52, replication protein A1, 70kDa	10.4638649895029
+SIRT3	221562_s_at	Analyte 174, DP53, sirtuin 3	6.85812940276441
+KLHDC2	217906_at	Analyte 175, DP52, kelch domain containing 2	10.7922299369507
+UBQLN2	215884_s_at	Analyte 175, DP53, ubiquilin 2	9.1836825019236
+SCARB1	201819_at	Analyte 176, DP52, scavenger receptor class B, member 1	9.1141755366682
+DMTF1	203301_s_at	Analyte 176, DP53, cyclin D binding myb-like transcription factor 1	8.53192237560146
+TPM1	206116_s_at	Analyte 177, DP52, tropomyosin 1 (alpha)	9.24991652957092
+CLPX	204809_at	Analyte 177, DP53, ClpX caseinolytic peptidase X homolog (E. coli)	9.12590045853609
+TM9SF2	201078_at	Analyte 178, DP52, transmembrane 9 superfamily member 2	8.87084779395524
+TXNL4B	218794_s_at	Analyte 178, DP53, thioredoxin-like 4B	8.99846918426095
+ATF6	203952_at	Analyte 179, DP52, activating transcription factor 6	9.29629823708818
+PRR15L	219127_at	Analyte 179, DP53, proline rich 15-like	7.58668530006145
+NUP88	202900_s_at	Analyte 180, DP52, nucleoporin 88kDa	9.7546161537606
+ST6GALNAC2	204542_at	Analyte 180, DP53, ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2	7.97818077660823
+FUT1	206109_at	Analyte 181, DP52, fucosyltransferase 1 (galactoside 2-alpha-L-fucosyltransferase, H blood group)	8.41814270737335
+ADH5	208847_s_at	Analyte 181, DP53, alcohol dehydrogenase 5 (class III), chi polypeptide	10.3845002285225
+PRUNE	209586_s_at	Analyte 182, DP52, prune homolog (Drosophila)	7.15515091203862
+GOLT1B	218193_s_at	Analyte 182, DP53, golgi transport 1B	10.3477496427883
+SYPL1	201259_s_at	Analyte 183, DP52, synaptophysin-like 1	11.2686616207843
+PPOX	204788_s_at	Analyte 183, DP53, protoporphyrinogen oxidase	9.11917687392818
+ZNF451	212557_at	Analyte 184, DP52, zinc finger protein 451	9.11583637843242
+CANT1	221732_at	Analyte 184, DP53, calcium activated nucleotidase 1	11.6133508648497
+RALB	202100_at	Analyte 185, DP52, v-ral simian leukemia viral oncogene homolog B (ras related; GTP binding protein)	9.70606855665654
+HOMER2	217080_s_at	Analyte 185, DP53, homer homolog 2 (Drosophila)	8.33618478039428
+TRIM13	203659_s_at	Analyte 186, DP52, tripartite motif containing 13	8.19017404964072
+CLTB	205172_x_at	Analyte 186, DP53, clathrin, light chain B	10.8099351630191
+FBXO7	201178_at	Analyte 187, DP52, F-box protein 7	8.21027311405653
+PHKA1	205450_at	Analyte 187, DP53, phosphorylase kinase, alpha 1 (muscle)	9.00236947606627
+PPARD	208044_s_at	Analyte 188, DP52, peroxisome proliferator-activated receptor delta	8.70591046206633
+CYCS	208905_at	Analyte 188, DP53, cytochrome c, somatic	10.5550563097246
+ENOSF1	204142_at	Analyte 189, DP52, enolase superfamily member 1	8.06983608676405
+MAP4K4	206571_s_at	Analyte 189, DP53, mitogen-activated protein kinase kinase kinase kinase 4	9.76435028154639
+STAT3	208991_at	Analyte 190, DP52, signal transducer and activator of transcription 3 (acute-phase response factor)	6.45244643076955
+PAN2	203117_s_at	Analyte 190, DP53, PAN2 poly(A) specific ribonuclease subunit homolog (S. cerevisiae)	7.728507159565
+LIG1	202726_at	Analyte 191, DP52, ligase I, DNA, ATP-dependent	8.89668989308291
+PPIC	204517_at	Analyte 191, DP53, peptidylprolyl isomerase C (cyclophilin C)	8.7623571672666
+GNB5	204000_at	Analyte 192, DP52, guanine nucleotide binding protein (G protein), beta 5	8.89885374886846
+EIF5	208290_s_at	Analyte 192, DP53, eukaryotic translation initiation factor 5	11.0671198342938
+INSIG1	201625_s_at	Analyte 193, DP52, insulin induced gene 1	8.74064532834957
+GNAI1	209576_at	Analyte 193, DP53, guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	7.22649718712741
+DNMT3A	218457_s_at	Analyte 194, DP52, DNA (cytosine-5-)-methyltransferase 3 alpha	8.37824989030256
+TM9SF3	217758_s_at	Analyte 194, DP53, transmembrane 9 superfamily member 3	9.49060447943102
+HIST2H2BE	202708_s_at	Analyte 195, DP52, histone cluster 2, H2be	8.01161109073233
+CCDC86	203119_at	Analyte 195, DP53, coiled-coil domain containing 86	10.6133219573326
+S100A4	203186_s_at	Analyte 196, DP52, S100 calcium binding protein A4	9.50435199029202
+SLC25A14	204587_at	Analyte 196, DP53, solute carrier family 25 (mitochondrial carrier, brain), member 14	8.20775192496858
+KTN1	200914_x_at	Analyte 197, DP52, kinectin 1 (kinesin receptor)	10.7206292344235
+TBXA2R	207554_x_at	Analyte 197, DP53, thromboxane A2 receptor	8.11764430898989
+ARHGAP1	202117_at	Analyte 198, DP52, Rho GTPase activating protein 1	8.94943856620737
+FBXO11	203255_at	Analyte 198, DP53, F-box protein 11	7.65148681151066
+LPAR2	206722_s_at	Analyte 199, DP52, lysophosphatidic acid receptor 2	8.7341398632995
+HERPUD1	217168_s_at	Analyte 199, DP53, homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	9.1454662377199
+COASY	201913_s_at	Analyte 200, DP52, CoA synthase	8.27290930274005
+RPL39L	210115_at	Analyte 200, DP53, ribosomal protein L39-like	8.85838233030768
+RASA1	202677_at	Analyte 201, DP52, RAS p21 protein activator (GTPase activating protein) 1	9.26257402672794
+BPHL	205750_at	Analyte 201, DP53, biphenyl hydrolase-like (serine hydrolase)	8.88579698970405
+ATMIN	201854_s_at	Analyte 202, DP52, ATM interactor	8.31952784285059
+MAPKAPK3	202787_s_at	Analyte 202, DP53, mitogen-activated protein kinase-activated protein kinase 3	9.44918752899791
+CASP3	202763_at	Analyte 203, DP52, caspase 3, apoptosis-related cysteine peptidase	9.24251184258159
+MBOAT7	209179_s_at	Analyte 203, DP53, membrane bound O-acyltransferase domain containing 7	10.8612358899236
+PSME2	201762_s_at	Analyte 204, DP52, proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	11.1053329256159
+PNKP	218961_s_at	Analyte 204, DP53, polynucleotide kinase 3'-phosphatase	9.90985597915029
+NISCH	201591_s_at	Analyte 205, DP52, nischarin	8.80636524512902
+SLC35A3	206770_s_at	Analyte 205, DP53, solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter), member A3	8.73957906290651
+CPSF4	206688_s_at	Analyte 206, DP52, cleavage and polyadenylation specific factor 4, 30kDa	9.31306883942574
+LSR	208190_s_at	Analyte 206, DP53, lipolysis stimulated lipoprotein receptor	9.17853948330031
+COPB2	201098_at	Analyte 207, DP52, coatomer protein complex, subunit beta 2 (beta prime)	9.88302421751542
+MEF2C	207968_s_at	Analyte 207, DP53, myocyte enhancer factor 2C	8.28124983097597
+GADD45A	203725_at	Analyte 208, DP52, growth arrest and DNA-damage-inducible, alpha	10.1372963254844
+KDM5A	202040_s_at	Analyte 208, DP53, lysine (K)-specific demethylase 5A	8.22003053846827
+SMNDC1	200071_at	Analyte 209, DP52, survival motor neuron domain containing 1	9.15392826405259
+FAM63A	221856_s_at	Analyte 209, DP53, family with sequence similarity 63, member A	7.69691681608011
+NUDCD3	201269_s_at	Analyte 210, DP52, NudC domain containing 3	9.8496117421352
+RAB4A	203581_at	Analyte 210, DP53, RAB4A, member RAS oncogene family	9.44118153882229
+FGFR2	203638_s_at	Analyte 211, DP52, fibroblast growth factor receptor 2	7.836625362372
+IFRD2	209100_at	Analyte 211, DP53, interferon-related developmental regulator 2	11.1504798349823
+HMGCR	202539_s_at	Analyte 212, DP52, 3-hydroxy-3-methylglutaryl-CoA reductase	8.58743258673226
+BACE2	217867_x_at	Analyte 212, DP53, beta-site APP-cleaving enzyme 2	10.3182904894866
+SLC35B1	202433_at	Analyte 213, DP52, solute carrier family 35, member B1	11.057675260127
+LYN	202625_at	Analyte 213, DP53, v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	7.4757219726737
+TIMP2	203167_at	Analyte 214, DP52, TIMP metallopeptidase inhibitor 2	8.81319694315547
+ISOC1	218170_at	Analyte 214, DP53, isochorismatase domain containing 1	9.37743261563962
+LSM6	205036_at	Analyte 215, DP52, LSM6 homolog, U6 small nuclear RNA associated (S. cerevisiae)	9.07385838926904
+DUSP3	201536_at	Analyte 215, DP53, dual specificity phosphatase 3	9.73663329327539
+CALM3	200622_x_at	Analyte 216, DP52, calmodulin 3 (phosphorylase kinase, delta)	8.12430942263146
+MOK	205130_at	Analyte 216, DP53, MOK protein kinase	8.70294455741737
+SACM1L	202797_at	Analyte 217, DP52, SAC1 suppressor of actin mutations 1-like (yeast)	10.5059064638067
+PPP1R13B	216347_s_at	Analyte 217, DP53, protein phosphatase 1, regulatory subunit 13B	8.10634604465413
+TCERG1	202396_at	Analyte 218, DP52, transcription elongation regulator 1	10.392001561815
+DNAJB2	202500_at	Analyte 218, DP53, DnaJ (Hsp40) homolog, subfamily B, member 2	9.65903070251519
+KIAA0196	201985_at	Analyte 219, DP52, KIAA0196	10.2501298180409
+CERK	218421_at	Analyte 219, DP53, ceramide kinase	8.25656419780643
+DNM1	215116_s_at	Analyte 220, DP52, dynamin 1	8.36652380561023
+LAP3	217933_s_at	Analyte 220, DP53, leucine aminopeptidase 3	10.4114893962683
+DDIT4	202887_s_at	Analyte 221, DP52, DNA-damage-inducible transcript 4	8.70413230100356
+MAPKAPK5	212871_at	Analyte 221, DP53, mitogen-activated protein kinase-activated protein kinase 5	8.22898017434098
+ALAS1	205633_s_at	Analyte 222, DP52, aminolevulinate, delta-, synthase 1	10.4833684119471
+HDGFRP3	209524_at	Analyte 222, DP53, hepatoma-derived growth factor, related protein 3	8.86569966994047
+PAFAH1B1	200813_s_at	Analyte 223, DP52, platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa)	8.91211872115535
+PRKCH	206099_at	Analyte 223, DP53, protein kinase C, eta	7.94740428727617
+PSRC1	201896_s_at	Analyte 224, DP52, proline/serine-rich coiled-coil 1	9.57796462477923
+RAB21	203885_at	Analyte 224, DP53, RAB21, member RAS oncogene family	8.73617919926302
+ERO1L	218498_s_at	Analyte 225, DP52, ERO1-like (S. cerevisiae)	8.64169892564577
+PSIP1	205961_s_at	Analyte 225, DP53, PC4 and SFRS1 interacting protein 1	8.64548115268004
+APOE	203381_s_at	Analyte 226, DP52, apolipoprotein E	7.51540788743905
+CREB1	204312_x_at	Analyte 226, DP53, cAMP responsive element binding protein 1	8.12150720858998
+RBM15B	202689_at	Analyte 227, DP52, RNA binding motif protein 15B	8.59812200237517
+MBNL2	203640_at	Analyte 227, DP53, muscleblind-like 2 (Drosophila)	8.91401713512614
+TOMM70A	201512_s_at	Analyte 228, DP52, translocase of outer mitochondrial membrane 70 homolog A (S. cerevisiae)	10.2079288791008
+PACSIN3	218744_s_at	Analyte 228, DP53, protein kinase C and casein kinase substrate in neurons 3	8.66400494463844
+CBR1	209213_at	Analyte 229, DP52, carbonyl reductase 1	9.82424560124018
+MTA1	202247_s_at	Analyte 229, DP53, metastasis associated 1	9.40638460601975
+PRKCD	202545_at	Analyte 230, DP52, protein kinase C, delta	8.60361759412992
+MACF1	207358_x_at	Analyte 230, DP53, microtubule-actin crosslinking factor 1	9.63201239756105
+PIK3R4	212740_at	Analyte 231, DP52, phosphoinositide-3-kinase, regulatory subunit 4	8.06346300284994
+CCNA1	205899_at	Analyte 231, DP53, cyclin A1	8.485330448861
+CSNK1E	202332_at	Analyte 232, DP52, casein kinase 1, epsilon	9.74649018775738
+HIST1H2BK	209806_at	Analyte 232, DP53, histone cluster 1, H2bk	10.8879726247133
+JUN	201464_x_at	Analyte 233, DP52, jun proto-oncogene	8.69561462845247
+PCCB	212694_s_at	Analyte 233, DP53, propionyl CoA carboxylase, beta polypeptide	9.98107286152884
+TMEM50A	217766_s_at	Analyte 234, DP52, transmembrane protein 50A	9.6599101081938
+STAP2	221610_s_at	Analyte 234, DP53, signal transducing adaptor family member 2	8.6124084887371
+SCCPDH	201825_s_at	Analyte 235, DP52, saccharopine dehydrogenase (putative)	10.6383680205745
+PMM2	203201_at	Analyte 235, DP53, phosphomannomutase 2	9.97317116109699
+TSC22D3	207001_x_at	Analyte 236, DP52, TSC22 domain family, member 3	8.01639758594942
+HSD17B11	217989_at	Analyte 236, DP53, hydroxysteroid (17-beta) dehydrogenase 11	8.39602596911341
+TFAP2A	204653_at	Analyte 237, DP52, transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	8.49094572314717
+FBXL12	220127_s_at	Analyte 237, DP53, F-box and leucine-rich repeat protein 12	8.66859811704982
+ZNF395	218149_s_at	Analyte 238, DP52, zinc finger protein 395	9.48904518917549
+WDR61	215156_at	Analyte 238, DP53, WD repeat domain 61	8.97454020463773
+VPS72	202261_at	Analyte 239, DP52, vacuolar protein sorting 72 homolog (S. cerevisiae)	8.78903481515088
+FAS	204780_s_at	Analyte 239, DP53, Fas (TNF receptor superfamily, member 6)	6.77483045698117
+CLSTN1	201561_s_at	Analyte 240, DP52, calsyntenin 1	9.04465288613378
+CENPE	205046_at	Analyte 240, DP53, centromere protein E, 312kDa	9.33661353547912
+MAPK9	203218_at	Analyte 241, DP52, mitogen-activated protein kinase 9	9.77639008060776
+CREG1	201200_at	Analyte 241, DP53, cellular repressor of E1A-stimulated genes 1	10.4432458033969
+SKP1	200711_s_at	Analyte 242, DP52, S-phase kinase-associated protein 1	8.45394143645548
+PRR7	219742_at	Analyte 242, DP53, proline rich 7 (synaptic)	8.87409193449649
+POP4	202868_s_at	Analyte 243, DP52, processing of precursor 4, ribonuclease P/MRP subunit (S. cerevisiae)	9.58064682424288
+TMEM110	213851_at	Analyte 243, DP53, transmembrane protein 110	8.54475802939406
+NFE2L2	201146_at	Analyte 244, DP52, nuclear factor (erythroid-derived 2)-like 2	8.27529729687062
+ZNF589	210061_at	Analyte 244, DP53, zinc finger protein 589	9.49685334241973
+BLCAP	201032_at	Analyte 245, DP52, bladder cancer associated protein	10.5883645333727
+BAX	208478_s_at	Analyte 245, DP53, BCL2-associated X protein	9.1595422290802
+FAM20B	202915_s_at	Analyte 246, DP52, family with sequence similarity 20, member B	8.39655491355984
+CNDP2	217752_s_at	Analyte 246, DP53, CNDP dipeptidase 2 (metallopeptidase M20 family)	10.0261821610618
+PROS1	207808_s_at	Analyte 247, DP52, protein S (alpha)	7.4821374148429
+TNIP1	207196_s_at	Analyte 247, DP53, TNFAIP3 interacting protein 1	8.76290954610565
+CRKL	206184_at	Analyte 248, DP52, v-crk sarcoma virus CT10 oncogene homolog (avian)-like	9.15232285215853
+P4HTM	222125_s_at	Analyte 248, DP53, prolyl 4-hydroxylase, transmembrane (endoplasmic reticulum)	9.58736619481974
+ZNF318	203520_s_at	Analyte 249, DP52, zinc finger protein 318	7.9001038019816
+REEP5	208872_s_at	Analyte 249, DP53, receptor accessory protein 5	8.96369917354852
+FDFT1	208647_at	Analyte 250, DP52, farnesyl-diphosphate farnesyltransferase 1	9.61146746083407
+BZW2	217809_at	Analyte 250, DP53, basic leucine zipper and W2 domains 2	9.95346195347667
+TRAP1	201391_at	Analyte 251, DP52, TNF receptor-associated protein 1	9.65438811016484
+CGRRF1	204605_at	Analyte 251, DP53, cell growth regulator with ring finger domain 1	10.9355226645047
+GTF2A2	202678_at	Analyte 252, DP52, general transcription factor IIA, 2, 12kDa	10.5176873344964
+AMDHD2	219082_at	Analyte 252, DP53, amidohydrolase domain containing 2	8.62301335093917
+PSMD9	207805_s_at	Analyte 253, DP52, proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	10.3567063032688
+PEX11A	205160_at	Analyte 253, DP53, peroxisomal biogenesis factor 11 alpha	7.37779000528625
+MTFR1	203207_s_at	Analyte 254, DP52, mitochondrial fission regulator 1	9.74919631310103
+GFOD1	219821_s_at	Analyte 254, DP53, glucose-fructose oxidoreductase domain containing 1	8.72459425142925
+UBE2A	201898_s_at	Analyte 255, DP52, ubiquitin-conjugating enzyme E2A	10.7783141527344
+PECR	221142_s_at	Analyte 255, DP53, peroxisomal trans-2-enoyl-CoA reductase	8.46529618038496
+NIT1	202891_at	Analyte 256, DP52, nitrilase 1	9.44472050754401
+SOCS2	203372_s_at	Analyte 256, DP53, suppressor of cytokine signaling 2	8.85178793749245
+SYNGR3	205691_at	Analyte 257, DP52, synaptogyrin 3	6.73312331450966
+ZDHHC6	218249_at	Analyte 257, DP53, zinc finger, DHHC-type containing 6	8.58360497995735
+NFKB2	207535_s_at	Analyte 258, DP52, nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	6.80703927794504
+ITGAE	205055_at	Analyte 258, DP53, integrin, alpha E (antigen CD103, human mucosal lymphocyte antigen 1; alpha polypeptide)	10.3004644457112
+STK25	201314_at	Analyte 259, DP52, serine/threonine kinase 25	10.1618587192185
+TMEM5	204807_at	Analyte 259, DP53, transmembrane protein 5	10.5210581161735
+ABCF3	202394_s_at	Analyte 260, DP52, ATP-binding cassette, sub-family F (GCN20), member 3	9.62211581986126
+ATP5S	206992_s_at	Analyte 260, DP53, ATP synthase, H+ transporting, mitochondrial Fo complex, subunit s (factor B)	8.68192639231577
+FCHO1	213669_at	Analyte 261, DP52, FCH domain only 1	8.33700912417247
+NGRN	217722_s_at	Analyte 261, DP53, neugrin, neurite outgrowth associated	8.89587788602336
+OXSR1	202696_at	Analyte 262, DP52, oxidative-stress responsive 1	9.07229494340967
+HOXA5	213844_at	Analyte 262, DP53, homeobox A5	8.29678614631316
+SMARCC1	201072_s_at	Analyte 263, DP52, SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	10.0392985822327
+GRN	200678_x_at	Analyte 263, DP53, granulin	11.23391063856
+PAK6	219461_at	Analyte 264, DP52, p21 protein (Cdc42/Rac)-activated kinase 6	7.91354439793201
+NUP85	218014_at	Analyte 264, DP53, nucleoporin 85kDa	11.1094890108932
+GHR	205498_at	Analyte 265, DP52, growth hormone receptor	7.56740486286525
+GTPBP8	221046_s_at	Analyte 265, DP53, GTP-binding protein 8 (putative)	10.0489383699755
+GLOD4	209092_s_at	Analyte 266, DP52, glyoxalase domain containing 4	10.0022923538573
+PTK2	207821_s_at	Analyte 266, DP53, PTK2 protein tyrosine kinase 2	10.9766862437068
+CDK4	202246_s_at	Analyte 267, DP52, cyclin-dependent kinase 4	9.44052259525356
+EPN2	203463_s_at	Analyte 267, DP53, epsin 2	10.2706296725173
+IL4R	203233_at	Analyte 268, DP52, interleukin 4 receptor	8.03345057160284
+CCDC90A	220094_s_at	Analyte 268, DP53, coiled-coil domain containing 90A	8.93631991443988
+PRKAG2	215231_at	Analyte 269, DP52, protein kinase, AMP-activated, gamma 2 non-catalytic subunit	9.02635512475081
+KIAA0528	212943_at	Analyte 269, DP53, KIAA0528	10.2992793131166
+KIT	205051_s_at	Analyte 270, DP52, v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	6.80898651564062
+MRPS16	218046_s_at	Analyte 270, DP53, mitochondrial ribosomal protein S16	11.6530714811851
+PTPRC	207238_s_at	Analyte 271, DP52, protein tyrosine phosphatase, receptor type, C	7.63064445002092
+RPS5	200024_at	Analyte 271, DP53, ribosomal protein S5	9.05002659316727
+PSMG1	203405_at	Analyte 272, DP52, proteasome (prosome, macropain) assembly chaperone 1	10.5410233495092
+NOL3	221566_s_at	Analyte 272, DP53, nucleolar protein 3 (apoptosis repressor with CARD domain)	9.94391922216121
+TMEM97	212279_at	Analyte 273, DP52, transmembrane protein 97	8.81646901523622
+NR1H2	218215_s_at	Analyte 273, DP53, nuclear receptor subfamily 1, group H, member 2	9.6159824312737
+LRRC41	201932_at	Analyte 274, DP52, leucine rich repeat containing 41	10.3430004233313
+PLS1	205190_at	Analyte 274, DP53, plastin 1	9.77844098432558
+KIAA1279	212453_at	Analyte 275, DP52, KIAA1279	9.06726876651132
+DUSP22	218845_at	Analyte 275, DP53, dual specificity phosphatase 22	9.60525452087981
+TCEAL4	202371_at	Analyte 276, DP52, transcription elongation factor A (SII)-like 4	9.85413470875016
+RPS6KA1	203379_at	Analyte 276, DP53, ribosomal protein S6 kinase, 90kDa, polypeptide 1	10.5900567595143
+NUP133	202184_s_at	Analyte 277, DP52, nucleoporin 133kDa	9.4141318069964
+DCK	203302_at	Analyte 277, DP53, deoxycytidine kinase	10.7409995286824
+NUP62	202153_s_at	Analyte 278, DP52, nucleoporin 62kDa	10.1217909892726
+TRIM2	202341_s_at	Analyte 278, DP53, tripartite motif containing 2	8.83266047508261
+SPTAN1	208611_s_at	Analyte 279, DP52, spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	7.49076348221109
+SNCA	204466_s_at	Analyte 279, DP53, synuclein, alpha (non A4 component of amyloid precursor)	7.83372207297695
+MALT1	208309_s_at	Analyte 280, DP52, mucosa associated lymphoid tissue lymphoma translocation gene 1	7.97700488613512
+VPS28	218679_s_at	Analyte 280, DP53, vacuolar protein sorting 28 homolog (S. cerevisiae)	10.9083326986022
+YKT6	217784_at	Analyte 281, DP52, YKT6 v-SNARE homolog (S. cerevisiae)	8.95020160422603
+LRRC16A	219573_at	Analyte 281, DP53, leucine rich repeat containing 16A	8.86679734434683
+KIF2C	209408_at	Analyte 282, DP52, kinesin family member 2C	9.94028301493302
+CHP	207993_s_at	Analyte 282, DP53, calcium binding protein P22	7.95077887513962
+NNT	202783_at	Analyte 283, DP52, nicotinamide nucleotide transhydrogenase	8.03468472093274
+NR2F6	209261_s_at	Analyte 283, DP53, nuclear receptor subfamily 2, group F, member 6	10.330766668519
+COL1A1	202310_s_at	Analyte 284, DP52, collagen, type I, alpha 1	8.68505960108161
+EXOSC4	218695_at	Analyte 284, DP53, exosome component 4	9.14420488264104
+CDC25A	204695_at	Analyte 285, DP52, cell division cycle 25 homolog A (S. pombe)	9.55746907629898
+PDLIM1	208690_s_at	Analyte 285, DP53, PDZ and LIM domain 1	9.92608129736307
+TP53	201746_at	Analyte 286, DP52, tumor protein p53	7.2827546121089
+CRELD2	218358_at	Analyte 286, DP53, cysteine-rich with EGF-like domains 2	8.99178824124324
+IQGAP1	200791_s_at	Analyte 287, DP52, IQ motif containing GTPase activating protein 1	8.82146466551129
+RRP12	216360_x_at	Analyte 287, DP53, ribosomal RNA processing 12 homolog (S. cerevisiae)	8.85068634270733
+EGR1	201693_s_at	Analyte 288, DP52, early growth response 1	7.08341667526664
+ACAT2	209608_s_at	Analyte 288, DP53, acetyl-CoA acetyltransferase 2	9.51199872527579
+MUC1	207847_s_at	Analyte 289, DP52, mucin 1, cell surface associated	7.14038790271264
+THAP11	212910_at	Analyte 289, DP53, THAP domain containing 11	8.69701042711906
+AURKB	209464_at	Analyte 290, DP52, aurora kinase B	9.55193515675908
+CEBPD	203973_s_at	Analyte 290, DP53, CCAAT/enhancer binding protein (C/EBP), delta	7.85954414274026
+HSPA4	208814_at	Analyte 291, DP52, heat shock 70kDa protein 4	9.93357957263444
+MAST2	211593_s_at	Analyte 291, DP53, microtubule associated serine/threonine kinase 2	9.13091906689835
+TOP2A	201291_s_at	Analyte 292, DP52, topoisomerase (DNA) II alpha 170kDa	11.1347719202838
+DHDDS	218547_at	Analyte 292, DP53, dehydrodolichyl diphosphate synthase	8.57134782658999
+NCK2	203315_at	Analyte 293, DP52, NCK adaptor protein 2	8.67480031975667
+GADD45B	207574_s_at	Analyte 293, DP53, growth arrest and DNA-damage-inducible, beta	8.74433173470873
+AURKA	204092_s_at	Analyte 294, DP52, aurora kinase A	9.03860349220909
+KIAA0355	203288_at	Analyte 294, DP53, KIAA0355	7.46305867835681
+B3GNT1	203188_at	Analyte 295, DP52, UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1	9.50320181616605
+DYNLT3	203303_at	Analyte 295, DP53, dynein, light chain, Tctex-type 3	9.38527984347125
+CDK5R1	204995_at	Analyte 296, DP52, cyclin-dependent kinase 5, regulatory subunit 1 (p35)	7.08970783774177
+CHMP4A	218571_s_at	Analyte 296, DP53, charged multivesicular body protein 4A	9.85698105423941
+SCP2	201339_s_at	Analyte 297, DP52, sterol carrier protein 2	9.5096187627898
+IPO13	203546_at	Analyte 297, DP53, importin 13	8.82778492980118
+RAD9A	204828_at	Analyte 298, DP52, RAD9 homolog A (S. pombe)	8.31032684635361
+ITFG1	221449_s_at	Analyte 298, DP53, integrin alpha FG-GAP repeat containing 1	8.27948021980369
+DRAP1	203258_at	Analyte 299, DP52, DR1-associated protein 1 (negative cofactor 2 alpha)	10.9241687599532
+SPP1	209875_s_at	Analyte 299, DP53, secreted phosphoprotein 1	6.67470560088937
+PCMT1	205202_at	Analyte 300, DP52, protein-L-isoaspartate (D-aspartate) O-methyltransferase	10.2390369659098
+HYOU1	200825_s_at	Analyte 300, DP53, hypoxia up-regulated 1	9.54185363472661
+FYN	210105_s_at	Analyte 301, DP52, FYN oncogene related to SRC, FGR, YES	8.00141890102056
+FOS	209189_at	Analyte 301, DP53, FBJ murine osteosarcoma viral oncogene homolog	7.56455107635905
+MYC	202431_s_at	Analyte 302, DP52, v-myc myelocytomatosis viral oncogene homolog (avian)	10.3985214213783
+MCOLN1	219952_s_at	Analyte 302, DP53, mucolipin 1	8.3138525189817
+POLB	203616_at	Analyte 303, DP52, polymerase (DNA directed), beta	9.2202438371341
+ID2	201565_s_at	Analyte 303, DP53, inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	8.12316356832042
+CETN3	209662_at	Analyte 304, DP52, centrin, EF-hand protein, 3	9.67051469560338
+KCNK1	204678_s_at	Analyte 304, DP53, potassium channel, subfamily K, member 1	9.43394941621993
+SMC4	201663_s_at	Analyte 305, DP52, structural maintenance of chromosomes 4	10.4577780895192
+AXIN1	212849_at	Analyte 305, DP53, axin 1	8.43635430433974
+SMARCD2	201827_at	Analyte 306, DP52, SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	9.42533586985584
+RAI14	202052_s_at	Analyte 306, DP53, retinoic acid induced 14	10.0276896870823
+MPZL1	201874_at	Analyte 307, DP52, myelin protein zero-like 1	9.3871073825284
+DNAJC15	218435_at	Analyte 307, DP53, DnaJ (Hsp40) homolog, subfamily C, member 15	10.1715853259106
+NRAS	202647_s_at	Analyte 308, DP52, neuroblastoma RAS viral (v-ras) oncogene homolog	8.35775855476083
+HOXA10	213147_at	Analyte 308, DP53, homeobox A10	9.70360301928298
+EBNA1BP2	201323_at	Analyte 309, DP52, EBNA1 binding protein 2	11.055214643624
+CASP2	208050_s_at	Analyte 309, DP53, caspase 2, apoptosis-related cysteine peptidase	8.32058406259165
+TATDN2	203648_at	Analyte 310, DP52, TatD DNase domain containing 2	7.9033598666666
+CTNND1	208407_s_at	Analyte 310, DP53, catenin (cadherin-associated protein), delta 1	8.87371612509737
+LRPAP1	201186_at	Analyte 311, DP52, low density lipoprotein receptor-related protein associated protein 1	9.20906196539518
+ZNF131	214741_at	Analyte 311, DP53, zinc finger protein 131	9.14671871208293
+BNIP3L	221478_at	Analyte 312, DP52, BCL2/adenovirus E1B 19kDa interacting protein 3-like	9.7529977283263
+HOOK2	218780_at	Analyte 312, DP53, hook homolog 2 (Drosophila)	8.3446576891951
+TBPL1	208398_s_at	Analyte 313, DP52, TBP-like 1	9.09946718601722
+ERBB2	210930_s_at	Analyte 313, DP53, v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	8.79933325362439
+RAE1	201558_at	Analyte 314, DP52, RAE1 RNA export 1 homolog (S. pombe)	10.5113154147951
+INTS3	202809_s_at	Analyte 314, DP53, integrator complex subunit 3	9.32487696564831
+CDK1	203213_at	Analyte 315, DP52, cyclin-dependent kinase 1	11.0410748505444
+RFNG	212968_at	Analyte 315, DP53, RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	9.61710034728282
+SLC35A1	203306_s_at	Analyte 316, DP52, solute carrier family 35 (CMP-sialic acid transporter), member A1	9.23423115073419
+MICALL1	221779_at	Analyte 316, DP53, MICAL-like 1	7.73727943025087
+NIPSNAP1	201708_s_at	Analyte 317, DP52, nipsnap homolog 1 (C. elegans)	8.97483598833031
+KLHL21	203068_at	Analyte 317, DP53, kelch-like 21 (Drosophila)	8.01816279415182
+BCL7B	202518_at	Analyte 318, DP52, B-cell CLL/lymphoma 7B	8.01066496025301
+TLE1	203220_s_at	Analyte 318, DP53, transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	9.80687078713167
+TIMELESS	203046_s_at	Analyte 319, DP52, timeless homolog (Drosophila)	9.53047021218337
+FZD7	203705_s_at	Analyte 319, DP53, frizzled family receptor 7	7.49978055176871
+DHX29	212648_at	Analyte 320, DP52, DEAH (Asp-Glu-Ala-His) box polypeptide 29	8.0059028144241
+COG2	203073_at	Analyte 320, DP53, component of oligomeric golgi complex 2	9.8296640025554
+MMP2	201069_at	Analyte 321, DP52, matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	8.31807526542278
+MRPS2	218001_at	Analyte 321, DP53, mitochondrial ribosomal protein S2	10.0263680960011
+TCEA2	203919_at	Analyte 322, DP52, transcription elongation factor A (SII), 2	8.65379398593357
+KCTD5	218474_s_at	Analyte 322, DP53, potassium channel tetramerisation domain containing 5	8.94183294207221
+FHL2	202949_s_at	Analyte 323, DP52, four and a half LIM domains 2	10.7307012153246
+CNPY3	217931_at	Analyte 323, DP53, canopy 3 homolog (zebrafish)	8.19934173840396
+FKBP4	200894_s_at	Analyte 324, DP52, FK506 binding protein 4, 59kDa	11.3472363661921
+ADAM10	202604_x_at	Analyte 324, DP53, ADAM metallopeptidase domain 10	8.9878998241691
+KAT6A	202423_at	Analyte 325, DP52, K(lysine) acetyltransferase 6A	8.85487355936179
+CD58	205173_x_at	Analyte 325, DP53, CD58 molecule	9.86835565187192
+CDK7	211297_s_at	Analyte 326, DP52, cyclin-dependent kinase 7	9.99832392038699
+KIF5C	203129_s_at	Analyte 326, DP53, kinesin family member 5C	7.40853547953013
+MAP3K4	204089_x_at	Analyte 327, DP52, mitogen-activated protein kinase kinase kinase 4	8.29780892649371
+HMG20B	209113_s_at	Analyte 327, DP53, high mobility group 20B	10.5733250125209
+ZFP36	201531_at	Analyte 328, DP52, zinc finger protein 36, C3H type, homolog (mouse)	8.6913911779696
+PIN1	202927_at	Analyte 328, DP53, peptidylprolyl cis/trans isomerase, NIMA-interacting 1	11.0792092786355
+INPP1	202794_at	Analyte 329, DP52, inositol polyphosphate-1-phosphatase	9.12349215145811
+LAGE3	219061_s_at	Analyte 329, DP53, L antigen family, member 3	9.05356638643869
+RAC2	207419_s_at	Analyte 330, DP52, ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	8.66764841432147
+TNFRSF21	214581_x_at	Analyte 330, DP53, tumor necrosis factor receptor superfamily, member 21	10.7121484812599
+HMOX1	203665_at	Analyte 331, DP52, heme oxygenase (decycling) 1	7.78435121671824
+KIF14	206364_at	Analyte 331, DP53, kinesin family member 14	8.99388210171252
+COL4A1	211980_at	Analyte 332, DP52, collagen, type IV, alpha 1	8.86742452188144
+DUSP6	208891_at	Analyte 332, DP53, dual specificity phosphatase 6	10.7082373968412
+EPB41L2	201718_s_at	Analyte 333, DP52, erythrocyte membrane protein band 4.1-like 2	9.70828455823719
+CYB561	207986_x_at	Analyte 333, DP53, cytochrome b-561	9.52392580978564
+GNAI2	201040_at	Analyte 334, DP52, guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	9.30468174198428
+HTRA1	201185_at	Analyte 334, DP53, HtrA serine peptidase 1	7.51284468248874
+TSTA3	201644_at	Analyte 335, DP52, tissue specific transplantation antigen P35B	9.70791281681106
+WASF3	204042_at	Analyte 335, DP53, WAS protein family, member 3	7.88167981749285
+DNMT1	201697_s_at	Analyte 336, DP52, DNA (cytosine-5-)-methyltransferase 1	11.2789755277245
+TSPAN6	209108_at	Analyte 336, DP53, tetraspanin 6	9.93444904466586
+RAB27A	209514_s_at	Analyte 337, DP52, RAB27A, member RAS oncogene family	7.94247786224306
+FBXO21	212229_s_at	Analyte 337, DP53, F-box protein 21	10.3382695032693
+DDR1	1007_s_at	Analyte 338, DP52, discoidin domain receptor tyrosine kinase 1	8.02342178128505
+PPP2R3C	218852_at	Analyte 338, DP53, protein phosphatase 2, regulatory subunit B'', gamma	9.4634648549642
+LPGAT1	202651_at	Analyte 339, DP52, lysophosphatidylglycerol acyltransferase 1	9.28972375620314
+ADRB2	206170_at	Analyte 339, DP53, adrenergic, beta-2-, receptor, surface	8.56107025967862
+DUSP11	202703_at	Analyte 340, DP52, dual specificity phosphatase 11 (RNA/RNP complex 1-interacting)	10.0999972686733
+GRB10	209409_at	Analyte 340, DP53, growth factor receptor-bound protein 10	8.7784040173806
+TP53BP2	203120_at	Analyte 341, DP52, tumor protein p53 binding protein, 2	10.2945581935201
+MMP1	204475_at	Analyte 341, DP53, matrix metallopeptidase 1 (interstitial collagenase)	9.45850928066106
+CDKN1A	202284_s_at	Analyte 342, DP52, cyclin-dependent kinase inhibitor 1A (p21, Cip1)	8.32715800953032
+ZW10	204812_at	Analyte 342, DP53, ZW10, kinetochore associated, homolog (Drosophila)	10.4817528874977
+TJP1	202011_at	Analyte 343, DP52, tight junction protein 1 (zona occludens 1)	8.08774115109413
+CORO1A	209083_at	Analyte 343, DP53, coronin, actin binding protein, 1A	8.3520204202093
+ABCB6	203191_at	Analyte 344, DP52, ATP-binding cassette, sub-family B (MDR/TAP), member 6	8.63221010754729
+XPNPEP1	208453_s_at	Analyte 344, DP53, X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	8.54595834576194
+MTHFD2	201761_at	Analyte 345, DP52, methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	11.0172536481612
+MAMLD1	205088_at	Analyte 345, DP53, mastermind-like domain containing 1	7.11706274654902
+PRAF2	203456_at	Analyte 346, DP52, PRA1 domain family, member 2	7.37351651864489
+DSG2	217901_at	Analyte 346, DP53, desmoglein 2	6.76134844617289
+DNTTIP2	202776_at	Analyte 347, DP52, deoxynucleotidyltransferase, terminal, interacting protein 2	10.4779022799756
+SLC27A3	222217_s_at	Analyte 347, DP53, solute carrier family 27 (fatty acid transporter), member 3	8.73579137308287
+HTATSF1	202601_s_at	Analyte 348, DP52, HIV-1 Tat specific factor 1	10.1402235789853
+CD97	202910_s_at	Analyte 348, DP53, CD97 molecule	11.022028396165
+NCAPD2	201774_s_at	Analyte 349, DP52, non-SMC condensin I complex, subunit D2	9.19869024951849
+IL13RA1	201887_at	Analyte 349, DP53, interleukin 13 receptor, alpha 1	9.09506171488018
+TMEM109	201361_at	Analyte 350, DP52, transmembrane protein 109	10.3440112034211
+AGL	203566_s_at	Analyte 350, DP53, amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase	8.10871767980313
+ICAM1	202637_s_at	Analyte 351, DP52, intercellular adhesion molecule 1	7.33774142261311
+CDC25B	201853_s_at	Analyte 351, DP53, cell division cycle 25 homolog B (S. pombe)	11.2683248849921
+NUP93	202188_at	Analyte 352, DP52, nucleoporin 93kDa	9.73219288353502
+GATA3	209602_s_at	Analyte 352, DP53, GATA binding protein 3	7.03771127030834
+PLA2G15	204458_at	Analyte 353, DP52, phospholipase A2, group XV	7.90435772695832
+RPA3	209507_at	Analyte 353, DP53, replication protein A3, 14kDa	9.42331140429388
+PIP4K2B	201080_at	Analyte 354, DP52, phosphatidylinositol-5-phosphate 4-kinase, type II, beta	8.13202595146718
+TES	202719_s_at	Analyte 354, DP53, testis derived transcript (3 LIM domains)	10.9102652041066
+MYCBP2	201959_s_at	Analyte 355, DP52, MYC binding protein 2	8.33744144572064
+SPR	203458_at	Analyte 355, DP53, sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)	9.9377066847887
+PGRMC1	201120_s_at	Analyte 356, DP52, progesterone receptor membrane component 1	11.5112929606192
+RELB	205205_at	Analyte 356, DP53, v-rel reticuloendotheliosis viral oncogene homolog B	7.71212884141666
+AARS	201000_at	Analyte 357, DP52, alanyl-tRNA synthetase	9.48263480130736
+EPHB2	209588_at	Analyte 357, DP53, EPH receptor B2	7.71300806540594
+GPC1	202755_s_at	Analyte 358, DP52, glypican 1	8.10734172966003
+RPIA	212973_at	Analyte 358, DP53, ribose 5-phosphate isomerase A	10.693478436135
+ELAC2	201766_at	Analyte 359, DP52, elaC homolog 2 (E. coli)	11.3253845127883
+GPR56	206582_s_at	Analyte 359, DP53, G protein-coupled receptor 56	9.99640551605057
+PLSCR1	202430_s_at	Analyte 360, DP52, phospholipid scramblase 1	8.58529956264853
+NVL	207877_s_at	Analyte 360, DP53, nuclear VCP-like	9.97043853850189
+CTSL1	202087_s_at	Analyte 361, DP52, cathepsin L1	10.0038037389949
+CHEK1	205393_s_at	Analyte 361, DP53, CHK1 checkpoint homolog (S. pombe)	10.2895335912093
+CTSD	200766_at	Analyte 362, DP52, cathepsin D	9.58834084791013
+ME2	209397_at	Analyte 362, DP53, malic enzyme 2, NAD(+)-dependent, mitochondrial	8.83303149579386
+ARHGEF2	207629_s_at	Analyte 363, DP52, Rho/Rac guanine nucleotide exchange factor (GEF) 2	8.85407096308567
+PDGFA	205463_s_at	Analyte 363, DP53, platelet-derived growth factor alpha polypeptide	9.08423957217362
+ILK	201234_at	Analyte 364, DP52, integrin-linked kinase	9.65035969525408
+WDR67	214061_at	Analyte 364, DP53, WD repeat domain 67	9.71655533358096
+NFIL3	203574_at	Analyte 365, DP52, nuclear factor, interleukin 3 regulated	7.67296039546967
+RFC2	1053_at	Analyte 365, DP53, replication factor C (activator 1) 2, 40kDa	8.96649293843815
+ARL4C	202206_at	Analyte 366, DP52, ADP-ribosylation factor-like 4C	8.72020294347243
+TIMM9	218316_at	Analyte 366, DP53, translocase of inner mitochondrial membrane 9 homolog (yeast)	12.1842909078073
+CPNE3	202118_s_at	Analyte 367, DP52, copine III	11.888147054201
+ORC1	205085_at	Analyte 367, DP53, origin recognition complex, subunit 1	10.0494140027473
+C5	205500_at	Analyte 368, DP52, complement component 5	7.37783636388595
+PARP2	204752_x_at	Analyte 368, DP53, poly (ADP-ribose) polymerase 2	9.84627068800739
+SCRN1	201462_at	Analyte 369, DP52, secernin 1	8.68598837304066
+FASTKD5	219016_at	Analyte 369, DP53, FAST kinase domains 5	9.98419435632456
+MAN2B1	209166_s_at	Analyte 370, DP52, mannosidase, alpha, class 2B, member 1	8.72460137863781
+PTPLAD1	217777_s_at	Analyte 370, DP53, protein tyrosine phosphatase-like A domain containing 1	8.82744396487694
+NFKBIA	201502_s_at	Analyte 371, DP52, nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	9.43225956354152
+MSRA	219281_at	Analyte 371, DP53, methionine sulfoxide reductase A	7.96831266435264
+DCTD	201571_s_at	Analyte 372, DP52, dCMP deaminase	9.58759748996057
+SYNE2	202761_s_at	Analyte 372, DP53, spectrin repeat containing, nuclear envelope 2	7.70593334774907
+MBNL1	201151_s_at	Analyte 373, DP52, muscleblind-like (Drosophila)	9.84811522922698
+UBE3C	201817_at	Analyte 373, DP53, ubiquitin protein ligase E3C	10.3421854009975
+MYCBP	203359_s_at	Analyte 374, DP52, c-myc binding protein	10.7358573078626
+CCDC92	218175_at	Analyte 374, DP53, coiled-coil domain containing 92	8.76483001277017
+PTPN1	202716_at	Analyte 375, DP52, protein tyrosine phosphatase, non-receptor type 1	9.55980445796618
+CXCL2	209774_x_at	Analyte 375, DP53, chemokine (C-X-C motif) ligand 2	8.00666568364728
+BRP44	202427_s_at	Analyte 376, DP52, brain protein 44	10.5988451038845
+TIMM22	219184_x_at	Analyte 376, DP53, translocase of inner mitochondrial membrane 22 homolog (yeast)	9.94753764252168
+ECD	203013_at	Analyte 377, DP52, ecdysoneless homolog (Drosophila)	10.4000678799573
+ATF5	204998_s_at	Analyte 377, DP53, activating transcription factor 5	10.6986927942714
+CIRBP	200810_s_at	Analyte 378, DP52, cold inducible RNA binding protein	9.1925361747515
+NSDHL	209279_s_at	Analyte 378, DP53, NAD(P) dependent steroid dehydrogenase-like	9.87956046088494
+NFKBIE	203927_at	Analyte 379, DP52, nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon	7.28302134385265
+ADI1	217761_at	Analyte 379, DP53, acireductone dioxygenase 1	9.74231066531085
+PRSS23	202458_at	Analyte 380, DP52, protease, serine, 23	9.04816089133008
+ADCK3	218168_s_at	Analyte 380, DP53, aarF domain containing kinase 3	7.90572761587374
+CCNH	204093_at	Analyte 381, DP52, cyclin H	9.2229307398298
+GDPD5	213343_s_at	Analyte 381, DP53, glycerophosphodiester phosphodiesterase domain containing 5	9.6883993746955
+P4HA2	202733_at	Analyte 382, DP52, prolyl 4-hydroxylase, alpha polypeptide II	8.38808171402744
+TARBP1	202813_at	Analyte 382, DP53, TAR (HIV-1) RNA binding protein 1	8.15912930176092
+ATP6V0B	200078_s_at	Analyte 383, DP52, ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	9.27134237984431
+RBKS	219222_at	Analyte 383, DP53, ribokinase	7.98337309619639
+CAPN1	200752_s_at	Analyte 384, DP52, calpain 1, (mu/I) large subunit	8.56781636069735
+KDM3A	212689_s_at	Analyte 384, DP53, lysine (K)-specific demethylase 3A	9.55036085237949
+STXBP1	202260_s_at	Analyte 385, DP52, syntaxin binding protein 1	7.88238948185544
+BID	204493_at	Analyte 385, DP53, BH3 interacting domain death agonist	8.3994307174479
+ITGB5	201124_at	Analyte 386, DP52, integrin, beta 5	9.25337728512008
+MTF2	203345_s_at	Analyte 386, DP53, metal response element binding transcription factor 2	8.99135980507011
+SLC11A2	203123_s_at	Analyte 387, DP52, solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	7.97233223629876
+HLA-DRA	208894_at	Analyte 387, DP53, major histocompatibility complex, class II, DR alpha	6.69616595186213
+PDIA5	203857_s_at	Analyte 388, DP52, protein disulfide isomerase family A, member 5	7.50080950281181
+PIK3C2B	204484_at	Analyte 388, DP53, phosphoinositide-3-kinase, class 2, beta polypeptide	9.36486883749883
+RAP1GAP	203911_at	Analyte 389, DP52, RAP1 GTPase activating protein	9.60614032545675
+SLC25A46	212833_at	Analyte 389, DP53, solute carrier family 25, member 46	9.24788940295117
+NOLC1	205895_s_at	Analyte 390, DP52, nucleolar and coiled-body phosphoprotein 1	9.7977137372847
+CDK19	211706_s_at	Analyte 390, DP53, cyclin-dependent kinase 19	8.43717476318909
+CAT	201432_at	Analyte 391, DP52, catalase	9.84630260962571
+KIAA0753	204711_at	Analyte 391, DP53, KIAA0753	7.92334585460306
+DUSP14	203367_at	Analyte 392, DP52, dual specificity phosphatase 14	8.7070437254135
+KAT6B	211874_s_at	Analyte 392, DP53, K(lysine) acetyltransferase 6B	9.63843490190508
+HMGA2	208025_s_at	Analyte 393, DP52, high mobility group AT-hook 2	9.28921564354129
+CHN1	212624_s_at	Analyte 393, DP53, chimerin (chimaerin) 1	7.5817275248399
+IGFBP3	210095_s_at	Analyte 394, DP52, insulin-like growth factor binding protein 3	10.5727829142423
+MAPK13	210058_at	Analyte 394, DP53, mitogen-activated protein kinase 13	9.65216686101384
+TRIB1	202241_at	Analyte 395, DP52, tribbles homolog 1 (Drosophila)	8.90575066266277
+UFM1	218050_at	Analyte 395, DP53, ubiquitin-fold modifier 1	9.60444332465981
+TP53BP1	203050_at	Analyte 396, DP52, tumor protein p53 binding protein 1	9.39476784761114
+GNA15	205349_at	Analyte 396, DP53, guanine nucleotide binding protein (G protein), alpha 15 (Gq class)	7.45855880726551
+FRS2	221308_at	Analyte 397, DP52, fibroblast growth factor receptor substrate 2	7.41807249689719
+IARS2	217900_at	Analyte 397, DP53, isoleucyl-tRNA synthetase 2, mitochondrial	11.2266319021694
+BECN1	208945_s_at	Analyte 398, DP52, beclin 1, autophagy related	8.67861170255238
+GATA2	207954_at	Analyte 398, DP53, GATA binding protein 2	9.01997122745476
+KDELR2	200698_at	Analyte 399, DP52, KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	9.0186094342552
+RALGDS	209050_s_at	Analyte 399, DP53, ral guanine nucleotide dissociation stimulator	8.7705615702521
+ELAVL1	201726_at	Analyte 400, DP52, ELAV (embryonic lethal, abnormal vision, Drosophila)-like 1 (Hu antigen R)	10.5492185226013
+NRIP1	202599_s_at	Analyte 400, DP53, nuclear receptor interacting protein 1	8.93426123333108
+IFNAR1	204191_at	Analyte 401, DP52, interferon (alpha, beta and omega) receptor 1	8.21726774879186
+CCNB2	202705_at	Analyte 401, DP53, cyclin B2	10.7308779020719
+MIF	217871_s_at	Analyte 402, DP52, macrophage migration inhibitory factor (glycosylation-inhibiting factor)	12.2093645906588
+RNPS1	200060_s_at	Analyte 402, DP53, RNA binding protein S1, serine-rich domain	11.2748104269764
+DAG1	205417_s_at	Analyte 403, DP52, dystroglycan 1 (dystrophin-associated glycoprotein 1)	8.49463587606368
+SATB1	203408_s_at	Analyte 403, DP53, SATB homeobox 1	6.79308341312195
+IGF2BP2	218847_at	Analyte 404, DP52, insulin-like growth factor 2 mRNA binding protein 2	9.7109496907599
+ARID4B	214139_at	Analyte 404, DP53, AT rich interactive domain 4B (RBP1-like)	8.48046038095593
+IGF2R	201392_s_at	Analyte 405, DP52, insulin-like growth factor 2 receptor	9.35059951346507
+GSTZ1	209531_at	Analyte 405, DP53, glutathione transferase zeta 1	9.90221684429822
+TIPARP	212665_at	Analyte 406, DP52, TCDD-inducible poly(ADP-ribose) polymerase	10.0463265335205
+SESN1	218346_s_at	Analyte 406, DP53, sestrin 1	7.61931093140202
+CRTAP	201380_at	Analyte 407, DP52, cartilage associated protein	8.78623830813169
+SPEN	201996_s_at	Analyte 407, DP53, spen homolog, transcriptional regulator (Drosophila)	8.88929759291878
+GMNN	218350_s_at	Analyte 408, DP52, geminin, DNA replication inhibitor	10.520521679522
+PFKL	201102_s_at	Analyte 408, DP53, phosphofructokinase, liver	9.36865088626459
+CYTH1	202879_s_at	Analyte 409, DP52, cytohesin 1	8.00922266842666
+PDHX	203067_at	Analyte 409, DP53, pyruvate dehydrogenase complex, component X	9.35496053644286
+PRCP	201494_at	Analyte 410, DP52, prolylcarboxypeptidase (angiotensinase C)	9.5787582128645
+DENND2D	221081_s_at	Analyte 410, DP53, DENN/MADD domain containing 2D	7.8575428114919
+SMARCA4	208793_x_at	Analyte 411, DP52, SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	8.40981262771443
+CTTN	201059_at	Analyte 411, DP53, cortactin	8.77240836367172
+PYGL	202990_at	Analyte 412, DP52, phosphorylase, glycogen, liver	10.2086591106916
+UBR7	218108_at	Analyte 412, DP53, ubiquitin protein ligase E3 component n-recognin 7 (putative)	10.3445408710649
+RPA2	201756_at	Analyte 413, DP52, replication protein A2, 32kDa	9.88084431606236
+GRB7	210761_s_at	Analyte 413, DP53, growth factor receptor-bound protein 7	9.07625849394973
+ERBB3	202454_s_at	Analyte 414, DP52, v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	7.6709625511498
+CD44	204489_s_at	Analyte 414, DP53, CD44 molecule (Indian blood group)	10.6076376311943
+GTF2E2	202680_at	Analyte 415, DP52, general transcription factor IIE, polypeptide 2, beta 34kDa	9.62357870051187
+VAV3	218806_s_at	Analyte 415, DP53, vav 3 guanine nucleotide exchange factor	7.04929410860409
+ANXA7	201366_at	Analyte 416, DP52, annexin A7	11.6473864157419
+ABHD6	221552_at	Analyte 416, DP53, abhydrolase domain containing 6	8.48479101137291
+TXNRD1	201266_at	Analyte 417, DP52, thioredoxin reductase 1	11.7155272686165
+MAPKAPK2	201460_at	Analyte 417, DP53, mitogen-activated protein kinase-activated protein kinase 2	11.0206689785757
+FZD1	204451_at	Analyte 418, DP52, frizzled family receptor 1	7.47297969231262
+CAB39	217873_at	Analyte 418, DP53, calcium binding protein 39	9.58049018831552
+CRYZ	202950_at	Analyte 419, DP52, crystallin, zeta (quinone reductase)	10.749231948033
+TIAM1	206409_at	Analyte 419, DP53, T-cell lymphoma invasion and metastasis 1	8.39385239266288
+GAA	202812_at	Analyte 420, DP52, glucosidase, alpha; acid	8.83296618049365
+DNM1L	203105_s_at	Analyte 420, DP53, dynamin 1-like	9.32520068819928
+SKIV2L	203727_at	Analyte 421, DP52, superkiller viralicidic activity 2-like (S. cerevisiae)	9.91752348835251
+DERA	218102_at	Analyte 421, DP53, deoxyribose-phosphate aldolase (putative)	9.62180826371092
+BLMH	202179_at	Analyte 422, DP52, bleomycin hydrolase	8.70009701804356
+PTPRK	203038_at	Analyte 422, DP53, protein tyrosine phosphatase, receptor type, K	9.62376931139758
+RRP1B	212844_at	Analyte 423, DP52, ribosomal RNA processing 1 homolog B (S. cerevisiae)	9.6736632882231
+HERC6	219352_at	Analyte 423, DP53, hect domain and RLD 6	8.00040296485654
+TSPAN3	200972_at	Analyte 424, DP52, tetraspanin 3	9.82006784254476
+MKNK1	209467_s_at	Analyte 424, DP53, MAP kinase interacting serine/threonine kinase 1	10.1698088562685
+PIK3R3	202743_at	Analyte 425, DP52, phosphoinositide-3-kinase, regulatory subunit 3 (gamma)	8.12287149694806
+ACOT9	221641_s_at	Analyte 425, DP53, acyl-CoA thioesterase 9	9.92127412523035
+KEAP1	202417_at	Analyte 426, DP52, kelch-like ECH-associated protein 1	10.4139575256997
+ST3GAL5	203217_s_at	Analyte 426, DP53, ST3 beta-galactoside alpha-2,3-sialyltransferase 5	6.9376138189404
+TFDP1	204147_s_at	Analyte 427, DP52, transcription factor Dp-1	10.5565755865314
+CTNNAL1	202468_s_at	Analyte 427, DP53, catenin (cadherin-associated protein), alpha-like 1	9.67118656862355
+SMC3	209257_s_at	Analyte 428, DP52, structural maintenance of chromosomes 3	8.44704249175477
+ABHD4	218581_at	Analyte 428, DP53, abhydrolase domain containing 4	8.47731357881912
+LBR	201795_at	Analyte 429, DP52, lamin B receptor	9.28406505722488
+INPP4B	205376_at	Analyte 429, DP53, inositol polyphosphate-4-phosphatase, type II, 105kDa	7.84857658003585
+PPIE	202494_at	Analyte 430, DP52, peptidylprolyl isomerase E (cyclophilin E)	10.6369908255378
+ZMIZ1	212124_at	Analyte 430, DP53, zinc finger, MIZ-type containing 1	10.3175577284331
+TERF2IP	201174_s_at	Analyte 431, DP52, telomeric repeat binding factor 2, interacting protein	10.1809676491223
+PPARG	208510_s_at	Analyte 431, DP53, peroxisome proliferator-activated receptor gamma	10.6663172682557
+BNIP3	201848_s_at	Analyte 432, DP52, BCL2/adenovirus E1B 19kDa interacting protein 3	10.6614279818696
+RPP38	205562_at	Analyte 432, DP53, ribonuclease P/MRP 38kDa subunit	8.49253606784
+BCL2	203684_s_at	Analyte 433, DP52, B-cell CLL/lymphoma 2	6.69080558232088
+CAST	207467_x_at	Analyte 433, DP53, calpastatin	9.81922147118125
+RBM6	201967_at	Analyte 434, DP52, RNA binding motif protein 6	9.81899020473168
+BAG3	217911_s_at	Analyte 434, DP53, BCL2-associated athanogene 3	11.2579619335977
+CSK	202329_at	Analyte 435, DP52, c-src tyrosine kinase	9.1818128954598
+GNA11	204248_at	Analyte 435, DP53, guanine nucleotide binding protein (G protein), alpha 11 (Gq class)	9.41131600561539
+ALDOC	202022_at	Analyte 436, DP52, aldolase C, fructose-bisphosphate	8.76280296578756
+TOR1A	202348_s_at	Analyte 436, DP53, torsin family 1, member A (torsin A)	8.82594932423013
+UBE2L6	201649_at	Analyte 437, DP52, ubiquitin-conjugating enzyme E2L 6	9.03295263166818
+SLC25A13	203775_at	Analyte 437, DP53, solute carrier family 25, member 13 (citrin)	9.12172732710623
+SYK	207540_s_at	Analyte 438, DP52, spleen tyrosine kinase	7.85188030874944
+TSPAN4	209263_x_at	Analyte 438, DP53, tetraspanin 4	10.6914076227297
+PCBD1	203557_s_at	Analyte 439, DP52, pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha	11.7533661592617
+NR3C1	201865_x_at	Analyte 439, DP53, nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	7.2882581223505
+ICMT	201609_x_at	Analyte 440, DP52, isoprenylcysteine carboxyl methyltransferase	10.8840338063827
+TRIB3	218145_at	Analyte 440, DP53, tribbles homolog 3 (Drosophila)	10.7214075496305
+EIF4EBP1	221539_at	Analyte 441, DP52, eukaryotic translation initiation factor 4E binding protein 1	10.2449742686968
+PHF15	208202_s_at	Analyte 441, DP53, PHD finger protein 15	8.5663995876679
+GNPDA1	202382_s_at	Analyte 442, DP52, glucosamine-6-phosphate deaminase 1	10.04024283798
+CXCR4	209201_x_at	Analyte 442, DP53, chemokine (C-X-C motif) receptor 4	7.28621756881078
+CCND3	201700_at	Analyte 443, DP52, cyclin D3	8.93877601848047
+FKBP14	219390_at	Analyte 443, DP53, FK506 binding protein 14, 22 kDa	7.78879417219435
+NUCB2	203675_at	Analyte 444, DP52, nucleobindin 2	9.19371202065989
+CIAPIN1	208424_s_at	Analyte 444, DP53, cytokine induced apoptosis inhibitor 1	10.0416140777549
+RSU1	201980_s_at	Analyte 445, DP52, Ras suppressor protein 1	8.29837355350411
+COG7	213190_at	Analyte 445, DP53, component of oligomeric golgi complex 7	7.93681279033778
+PTPN6	206687_s_at	Analyte 446, DP52, protein tyrosine phosphatase, non-receptor type 6	7.83381987814798
+TUBB6	209191_at	Analyte 446, DP53, tubulin, beta 6	9.61611072152557
+DUSP4	204014_at	Analyte 447, DP52, dual specificity phosphatase 4	10.7807409662684
+ABL1	202123_s_at	Analyte 447, DP53, c-abl oncogene 1, non-receptor tyrosine kinase	9.46732432259004
+PTPN12	202006_at	Analyte 448, DP52, protein tyrosine phosphatase, non-receptor type 12	9.66634085214777
+CCNF	204826_at	Analyte 448, DP53, cyclin F	8.97826502772064
+PCK2	202847_at	Analyte 449, DP52, phosphoenolpyruvate carboxykinase 2 (mitochondrial)	8.47922021612651
+HSPA1A	200799_at	Analyte 449, DP53, heat shock 70kDa protein 1A	10.8550230695456
+RB1	203132_at	Analyte 450, DP52, retinoblastoma 1	8.92886543542186
+FAM57A	218898_at	Analyte 450, DP53, family with sequence similarity 57, member A	9.05041364864711
+GFPT1	202721_s_at	Analyte 451, DP52, glutamine--fructose-6-phosphate transaminase 1	8.02918438864967
+EVL	217838_s_at	Analyte 451, DP53, Enah/Vasp-like	8.27353576227248
+BLVRA	203771_s_at	Analyte 452, DP52, biliverdin reductase A	10.1233192267315
+GPER	210640_s_at	Analyte 452, DP53, G protein-coupled estrogen receptor 1	7.42136350977237
+S100A13	202598_at	Analyte 453, DP52, S100 calcium binding protein A13	11.4822199830963
+EAPP	202623_at	Analyte 453, DP53, E2F-associated phosphoprotein	8.832059178624
+MYBL2	201710_at	Analyte 454, DP52, v-myb myeloblastosis viral oncogene homolog (avian)-like 2	9.42912657756039
+EXT1	201995_at	Analyte 454, DP53, exostosin 1	10.7896446907805
+STX4	203530_s_at	Analyte 455, DP52, syntaxin 4	9.39722559303203
+POLE2	205909_at	Analyte 455, DP53, polymerase (DNA directed), epsilon 2 (p59 subunit)	10.0863278019165
+TMCO1	208715_at	Analyte 456, DP52, transmembrane and coiled-coil domains 1	11.4193067379402
+PLCB3	213384_x_at	Analyte 456, DP53, phospholipase C, beta 3 (phosphatidylinositol-specific)	10.1259871493679
+PARP1	208644_at	Analyte 457, DP52, poly (ADP-ribose) polymerase 1	10.8689581832508
+C2CD2	212875_s_at	Analyte 457, DP53, C2 calcium-dependent domain containing 2	8.5030041935408
+CCDC85B	204609_at	Analyte 458, DP52, coiled-coil domain containing 85B	8.84830706554169
+ANKRD10	218093_s_at	Analyte 458, DP53, ankyrin repeat domain 10	9.62064378203937
+DDB2	203409_at	Analyte 459, DP52, damage-specific DNA binding protein 2, 48kDa	8.89333386302903
+DDX10	204977_at	Analyte 459, DP53, DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	9.62811423971033
+BAMBI	203304_at	Analyte 460, DP52, BMP and activin membrane-bound inhibitor homolog (Xenopus laevis)	8.73984509947863
+CEP57	203491_s_at	Analyte 460, DP53, centrosomal protein 57kDa	8.82896937064157
+HADH	201035_s_at	Analyte 461, DP52, hydroxyacyl-CoA dehydrogenase	9.76808473282025
+RAB31	217762_s_at	Analyte 461, DP53, RAB31, member RAS oncogene family	7.67896193159272
+GLRX	206662_at	Analyte 462, DP52, glutaredoxin (thioltransferase)	10.39086817764
+ABCC5	209380_s_at	Analyte 462, DP53, ATP-binding cassette, sub-family C (CFTR/MRP), member 5	7.84304293883885
+MVP	202180_s_at	Analyte 463, DP52, major vault protein	8.95937103372347
+RFC5	203209_at	Analyte 463, DP53, replication factor C (activator 1) 5, 36.5kDa	9.99408181607977
+STMN1	200783_s_at	Analyte 464, DP52, stathmin 1	10.0689594380236
+HES1	203393_at	Analyte 464, DP53, hairy and enhancer of split 1, (Drosophila)	9.42819733909042
+GALE	202528_at	Analyte 465, DP52, UDP-galactose-4-epimerase	9.60459277135544
+KLHL9	213117_at	Analyte 465, DP53, kelch-like 9 (Drosophila)	8.13284300756063
+PTPRF	200635_s_at	Analyte 466, DP52, protein tyrosine phosphatase, receptor type, F	8.5453689329202
+UBE2J1	217823_s_at	Analyte 466, DP53, ubiquitin-conjugating enzyme E2, J1, U	8.82605188192611
+PGM1	201968_s_at	Analyte 467, DP52, phosphoglucomutase 1	10.3790666358214
+SLC37A4	202830_s_at	Analyte 467, DP53, solute carrier family 37 (glucose-6-phosphate transporter), member 4	8.69124829589605
+LOXL1	203570_at	Analyte 468, DP52, lysyl oxidase-like 1	10.6269921382984
+PLK1	202240_at	Analyte 468, DP53, polo-like kinase 1	10.955565434374
+MYO10	201976_s_at	Analyte 469, DP52, myosin X	9.20004854708093
+NPRL2	203246_s_at	Analyte 469, DP53, nitrogen permease regulator-like 2 (S. cerevisiae)	9.26184465602779
+LIPA	201847_at	Analyte 470, DP52, lipase A, lysosomal acid, cholesterol esterase	10.5768630224784
+PWP1	201606_s_at	Analyte 470, DP53, PWP1 homolog (S. cerevisiae)	11.0541895691675
+PHGDH	201397_at	Analyte 471, DP52, phosphoglycerate dehydrogenase	10.5460416626504
+PLEKHM1	212717_at	Analyte 471, DP53, pleckstrin homology domain containing, family M (with RUN domain) member 1	9.57834777268518
+ST7	207524_at	Analyte 472, DP52, suppression of tumorigenicity 7	7.87047729665706
+VAT1	208626_s_at	Analyte 472, DP53, vesicle amine transport protein 1 homolog (T. californica)	9.0870209596235
+IKBKB	209341_s_at	Analyte 473, DP52, inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	7.72434743402729
+KIF20A	218755_at	Analyte 473, DP53, kinesin family member 20A	9.80394890214849
+PCM1	202174_s_at	Analyte 474, DP52, pericentriolar material 1	8.78099532353567
+CDH3	203256_at	Analyte 474, DP53, cadherin 3, type 1, P-cadherin (placental)	8.25108062341642
+IER3	201631_s_at	Analyte 475, DP52, immediate early response 3	11.3367608398063
+SSBP2	203787_at	Analyte 475, DP53, single-stranded DNA binding protein 2	7.42688161932409
+FAT1	201579_at	Analyte 476, DP52, FAT tumor suppressor homolog 1 (Drosophila)	8.66307084084893
+SNX11	220140_s_at	Analyte 476, DP53, sorting nexin 11	9.00211577879793
+RNMT	202683_s_at	Analyte 477, DP52, RNA (guanine-7-) methyltransferase	9.42281411713672
+SFN	209260_at	Analyte 477, DP53, stratifin	9.87423028526418
+EGFR	201983_s_at	Analyte 478, DP52, epidermal growth factor receptor	8.22480137231742
+RFX5	202963_at	Analyte 478, DP53, regulatory factor X, 5 (influences HLA class II expression)	8.37957787302091
+NET1	201829_at	Analyte 479, DP52, neuroepithelial cell transforming 1	9.69515754640568
+PKIG	202732_at	Analyte 479, DP53, protein kinase (cAMP-dependent, catalytic) inhibitor gamma	9.37719156906802
+DECR1	202447_at	Analyte 480, DP52, 2,4-dienoyl CoA reductase 1, mitochondrial	10.9526884126798
+FSD1	219170_at	Analyte 480, DP53, fibronectin type III and SPRY domain containing 1	8.39173306922539
+CDK6	207143_at	Analyte 481, DP52, cyclin-dependent kinase 6	6.91247533538808
+ATP6V1D	208898_at	Analyte 481, DP53, ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	10.1714751307807
+NPC1	202679_at	Analyte 482, DP52, Niemann-Pick disease, type C1	8.6420637013019
+CDC45	204126_s_at	Analyte 482, DP53, cell division cycle 45 homolog (S. cerevisiae)	9.54053739843885
+MEST	202016_at	Analyte 483, DP52, mesoderm specific transcript homolog (mouse)	10.4148555564225
+EDEM1	203279_at	Analyte 483, DP53, ER degradation enhancer, mannosidase alpha-like 1	9.45074559441018
+PAFAH1B3	203228_at	Analyte 484, DP52, platelet-activating factor acetylhydrolase 1b, catalytic subunit 3 (29kDa)	6.76690014401163
+MYLK	202555_s_at	Analyte 484, DP53, myosin light chain kinase	7.01265089529497
+CALU	200755_s_at	Analyte 485, DP52, calumenin	10.3180020075948
+USP6NL	204761_at	Analyte 485, DP53, USP6 N-terminal like	8.39635584751822
+LGALS8	208933_s_at	Analyte 486, DP52, lectin, galactoside-binding, soluble, 8	8.39268883623659
+NT5DC2	218051_s_at	Analyte 486, DP53, 5'-nucleotidase domain containing 2	9.9082440322132
+LRP10	201412_at	Analyte 487, DP52, low density lipoprotein receptor-related protein 10	9.67907861327482
+CCP110	204662_at	Analyte 487, DP53, centriolar coiled coil protein 110kDa	8.19672578800159
+ATP1B1	201242_s_at	Analyte 488, DP52, ATPase, Na+/K+ transporting, beta 1 polypeptide	11.048278630556
+STK10	203047_at	Analyte 488, DP53, serine/threonine kinase 10	8.26181974945561
+OXCT1	202780_at	Analyte 489, DP52, 3-oxoacid CoA transferase 1	9.34572397246503
+UGDH	203343_at	Analyte 489, DP53, UDP-glucose 6-dehydrogenase	9.40979847772042
+SLC25A4	202825_at	Analyte 490, DP52, solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	9.16446366576237
+SQRDL	217995_at	Analyte 490, DP53, sulfide quinone reductase-like (yeast)	9.2819168705301
+PSMB10	202659_at	Analyte 491, DP52, proteasome (prosome, macropain) subunit, beta type, 10	8.99975125101296
+HEBP1	218450_at	Analyte 491, DP53, heme binding protein 1	9.13340153555827
+ASCC3	212815_at	Analyte 492, DP52, activating signal cointegrator 1 complex subunit 3	8.00899385079411
+FGFR4	204579_at	Analyte 492, DP53, fibroblast growth factor receptor 4	8.08036398027023
+TRAM2	202368_s_at	Analyte 493, DP52, translocation associated membrane protein 2	7.54728054757293
+CDKN2A	207039_at	Analyte 493, DP53, cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9.94607317674372
+PYCR1	202148_s_at	Analyte 494, DP52, pyrroline-5-carboxylate reductase 1	9.75003625279805
+ATP11B	212536_at	Analyte 494, DP53, ATPase, class VI, type 11B	8.46910637908032
+NCOA3	207700_s_at	Analyte 495, DP52, nuclear receptor coactivator 3	9.19669266657698
+CD320	218529_at	Analyte 495, DP53, CD320 molecule	11.181688263787
+POLD4	202996_at	Analyte 496, DP52, polymerase (DNA-directed), delta 4	8.67362746908664
+CDKN1B	209112_at	Analyte 496, DP53, cyclin-dependent kinase inhibitor 1B (p27, Kip1)	10.0193535013272
+FOSL1	204420_at	Analyte 497, DP52, FOS-like antigen 1	11.3626982505985
+MLLT11	211071_s_at	Analyte 497, DP53, myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11	9.84762668529003
+PRKACA	202801_at	Analyte 498, DP52, protein kinase, cAMP-dependent, catalytic, alpha	9.88652570951561
+CEBPZ	203341_at	Analyte 498, DP53, CCAAT/enhancer binding protein (C/EBP), zeta	10.01560710267
+GAPDH	212581_x_at	Analyte 499, DP53, glyceraldehyde-3-phosphate dehydrogenase	12.7128822374145
+LYRM1	203897_at	Analyte 500, DP52, LYR motif containing 1	7.83904439001072
+CBR3	205379_at	Analyte 500, DP53, carbonyl reductase 3	9.48735004708834

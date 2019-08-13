@@ -1,0 +1,19 @@
+Package: L1KProcs
+Version: 0.99
+Date: 2013-05-07
+Title: L1000 data processing and analyzing pipeline
+Author: Jing Su author,developer <jsu@wakehealth.edu>
+	  Chenglin Liu author,developer <cheliu@wakehealth.edu>
+	  Xiaobo Zhou author <xizhou@wakehealth.edu>
+Maintainer: Chenglin Liu Developer <cheliu@wakehealth.edu>
+Description: L1000 data preprocessing and analyzing pipeline
+License: GPL (>= 3)
+URL: http://ctsb.is.wfubmc.edu/itNETZ/DPPCSD.html
+Depends: R (>= 3.0), methods, foreach, SeqGSEA, gplots, doParallel (>=
+        1.0.1)
+Imports: preprocessCore, stats, prada, L1KAnno
+biocViews: GeneExpression, Bioinformatics, Software, Preprocessing,
+        Clustering, Enrichment
+BugReports: http://ctsb.is.wfubmc.edu/itNETZ/AboutUs.html
+Packaged: 2013-11-18 08:29:13 UTC; cliu
+Built: R 3.0.2; ; 2013-11-18 12:19:03 UTC; windows

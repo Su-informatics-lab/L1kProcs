@@ -1,0 +1,44 @@
+AnalytePlot             Plot Peak calling of analytes
+Bead2Gene               Data for preprocessing
+CalCos                  Calculate the cosine similarity of two matrix
+CheckData               Check if the required data exists
+ConvertM                Convert the expression of landmark genes to all
+                        genes.
+DEG                     Find differential expressed genes of data
+DataStorage             Save the list of well names and plate names
+FindControls            Find control wells and major control name.
+FuncsNMF                csNMF method for egem matrix decomposition.
+GMM                     Utility of the package
+PeakCalling             Peak calling for L1000 datasets
+PlateInfo-class         'PlateInfo': a class for storing data
+                        preprocessing information.
+PlateInfo-plot          Plot correlations used for quality control.
+QualityControl          Quality control.
+ReadQNData              GCT data read and write
+SigDetect               Compound signature detection method
+TargetGenerate          Generate quantile normalization targets for
+                        plate normalization.
+calEGEM                 Calculate egem of a gene set of the SeqGeneSet
+                        object
+calperm.egem            Calculate egem scores from randomized order of
+                        genes.
+cosine                  Cosine Measure (Matrices)
+csNMF                   Perform csNMF method for compound signature
+                        discovery
+csNMF.No                Decide the best number of signatures
+csNMF.No.modified       Exclude low-potential signatures
+csNMF.fig               Heatmap of compound signature discovery
+csNMF.report            Results of compound signature discovery
+csNMF.single            csNMF method
+csNMF.tf                Transcription factors of signatures
+egem                    Calculate egem scores based on expression data
+egem.analyze            Analyze the results based on EGEM matrix
+egem.plot               plot the matrix of EGEM
+expLFC                  Generating log fold change gene expression
+                        data.
+expNorm                 Quantile normalization of gene expression data.
+initial.class           Initialize PlateInfo classes.
+l1kpreprocs             L1K data preprocessing pipeline.
+sumM                    sum of a list of matrix
+triplets                graph among modulators, transcription factors,
+                        genes
