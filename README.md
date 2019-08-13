@@ -1,0 +1,2 @@
+# L1kProcs
+L1Procs is a parallel R package for L1000 data processing and analyzing. Major function of L1KProcs includes (a) l1kpreprocs, which preprocesses raw data, and generates normalized gene expression data; (b) egem, which provides some interesting genes as target related genes, and potential transcription factors involved in the function of the compounds; (c) csNMF, which can detect compound signatures, and provide interesting compounds as drug candidates.
